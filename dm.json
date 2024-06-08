@@ -16,7 +16,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/360动画.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/360动画.js"
     },
     {
       "key": "lltv_MGDH",
@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/芒果动画.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/芒果动画.js"
     },
     {
       "key": "lltv_QYDH",
@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/奇艺动画.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/奇艺动画.js"
     },
     {
       "key":"lltv_SGDH",
@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://code.wixy.cn/lltv/69/raw/branch/main/dongman/搜狗动画.js"
+      "ext":"https://codeberg.org/413915/69/raw/branch/main/dongman/搜狗动画.js"
     },
     {
       "key": "lltv_TXDH",
@@ -56,14 +56,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/腾讯动画.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/腾讯动画.js"
     },
     {
       "key": "lltv_YKDH",
       "name": "优酷🔥动画",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/儿童优酷.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/儿童优酷.js"
     },
     {
       "key": "lltv_TQDH",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/童趣搜视.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/童趣搜视.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -106,7 +106,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/NT动漫.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/NT动漫.js"
     },
     {
       "key":"py_返老还童",
@@ -164,7 +164,7 @@
       "name": "曲奇┃动漫",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/曲奇动漫.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/曲奇动漫.js"
     },
     {
       "key": "lltv_Anime1-鸭-饭",
@@ -185,7 +185,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/维奇动漫.json"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/维奇动漫.json"
     },
     {
       "key": "lltv_异世界-鸭-饭",
@@ -588,7 +588,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://code.wixy.cn/lltv/by/raw/branch/main/live.txt",
+      "url": "https://git.xswitch.cn/66tv/by/raw/branch/main/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15"
