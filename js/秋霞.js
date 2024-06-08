@@ -5,7 +5,7 @@ muban.首图2.二级.tabs = '.bottom-line&&h3';
 var rule = {
     title: '秋霞',
     模板: '首图2',
-    host: 'https://www.7xiady.cc/',
+    host: 'https://www.7xiady.cc',
     // url:'/type/fyclass-fypage/',
     url: '/show/fyclassfyfilter/',
     filterable: 1,//是否启用分类筛选,
