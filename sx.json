@@ -86,7 +86,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/js/4K电影网.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/4K电影网.js"
     },
     {
       "key": "lltv_至圣云-心动-心动",
@@ -324,7 +324,7 @@
       "name": "AGE┃动漫",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/AGE动漫.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/AGE动漫.js"
     },
     {
       "key": "放牛4K-心动-小胡",
@@ -873,7 +873,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/jiaoyu/演唱会-哔哩0723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0",
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/jiaoyu/演唱会-哔哩0723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0",
       "spider": "./jar/wuai0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -886,7 +886,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/json/企鹅体育.json"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -925,7 +925,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/json/哔哩.json"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/json/哔哩.json"
     },
     {
       "key": "seven",
@@ -972,7 +972,7 @@
       "name": "虎牙┃直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/js/huyazhibo.js",
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/huyazhibo.js",
       "style": {
       "type": "rect",
       "ratio": 1.755
@@ -987,7 +987,7 @@
       "name": "斗鱼┃直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/js/douyuzhibo.js",
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/douyuzhibo.js",
       "style": {
       "type": "rect",
       "ratio": 1.755
@@ -1289,7 +1289,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/jiaoyu/%E5%90%BE%E7%88%B1%E6%90%AD%E8%AE%AA.json?sign=gip9Kawqr484bHHBk7lptxFssHFT6EZyyFiDQ3KzHt8%3D%3A0",
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/jiaoyu/%E5%90%BE%E7%88%B1%E6%90%AD%E8%AE%AA.json?sign=gip9Kawqr484bHHBk7lptxFssHFT6EZyyFiDQ3KzHt8%3D%3A0",
       "spider": "./jar/wuai0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1298,7 +1298,7 @@
       "name": "NT┃动漫",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/ntdm.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/ntdm.js"
     },
     {
       "key": "熊猫动漫",
@@ -1423,7 +1423,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/Dm84.json"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/Dm84.json"
     },
     {
       "key": "去看吧2",
@@ -1441,7 +1441,7 @@
       "name": "去看吧",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/dongman/去看吧.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/dongman/去看吧.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1453,7 +1453,7 @@
       "name": "360┃(官)",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://code.wixy.cn/lltv/69/raw/branch/main/js/360影视.js"
+      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/360影视.js"
     },
     {
       "key":"drpy_js_百忙无果",
@@ -1461,7 +1461,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://code.wixy.cn/lltv/69/raw/branch/main/js/芒果视频.js"
+      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/芒果视频.js"
     },
     {
       "key":"drpy_js_菜狗",
@@ -1469,7 +1469,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://code.wixy.cn/lltv/69/raw/branch/main/js/搜狗视频.js"
+      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/搜狗视频.js"
     },
     {
       "key": "sohu",
@@ -1486,7 +1486,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://code.wixy.cn/lltv/69/raw/branch/main/js/腾讯视频.js"
+      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/腾讯视频.js"
     },
     {
       "key":"drpy_yh",
@@ -1494,7 +1494,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://code.wixy.cn/lltv/69/raw/branch/main/js/优酷视频.js"
+      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/优酷视频.js"
     },
     {
       "key":"drpy_js_奇珍异兽",
@@ -1502,7 +1502,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://code.wixy.cn/lltv/69/raw/branch/main/js/奇艺视频.js"
+      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/奇艺视频.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1911,7 +1911,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://code.wixy.cn/lltv/by/raw/branch/main/live.txt",
+      "url": "https://git.xswitch.cn/66tv/by/raw/branch/main/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15"
