@@ -250,7 +250,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/json/企鹅体育.json"
+      "ext": "./json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -296,7 +296,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/芒果视频.js"
+      "ext":"./js/芒果视频.js"
     },
     {
       "key":"lltv_QY",
@@ -304,7 +304,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/奇艺视频.js"
+      "ext":"./js/奇艺视频.js"
     },
     {
       "key":"lltv_SG",
@@ -312,7 +312,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/搜狗视频.js"
+      "ext":"./js/搜狗视频.js"
     },
     {
       "key":"lltv_TX",
@@ -320,7 +320,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/腾讯视频.js"
+      "ext":"./js/腾讯视频.js"
     },
     {
       "key":"lltv_YK",
@@ -328,7 +328,7 @@
       "type":3,
       "playerType": 2,
       "api":"./js/drpy2.min.js",
-      "ext":"https://codeberg.org/413915/69/raw/branch/main/js/优酷视频.js"
+      "ext":"./js/优酷视频.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -339,21 +339,21 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/哔哩直播.js"
+      "ext": "./js/哔哩直播.js"
     },
     {
       "key": "lltv_JustLive-道长-鸭",
       "name": "Just┃直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/JustLive.js"
+      "ext": "./js/JustLive.js"
     },
     {
       "key": "lltv_斗鱼-运输车-鸭",
       "name": "斗鱼┃直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/斗鱼.js"
+      "ext": "./js/斗鱼.js"
     },
     {
       "key": "lltv_虎牙-ok-鸭",
@@ -361,7 +361,7 @@
       "type": 3,
       "playerType": 2,
       "api": "./js/drpy2.min.js",
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/虎牙.js",
+      "ext": "./js/虎牙.js",
       "style": {
       "type": "rect",
       "ratio": 1.755
@@ -560,7 +560,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/json/看片狂人.json"
+      "ext": "./json/看片狂人.json"
     },
     {
       "key": "lltv_蚂蚁-心动-满天星辰",
@@ -872,7 +872,7 @@
       "name": "秋霞┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/js/秋霞.js"
+      "ext": "./js/秋霞.js"
     },
     {
       "key": "lltv_人人-心动-以一敌十-道长-潇洒",
@@ -2552,7 +2552,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/json/库库影视.json"
+      "ext": "./json/库库影视.json"
     },
     {
       "key": "lltv_Voflix-道长-鸭",
@@ -2593,7 +2593,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/413915/69/raw/branch/main/jiaoyu/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
+      "ext": "./jiaoyu/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
     },
     {
       "key": "lltv_短视频-鸭",
