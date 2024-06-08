@@ -269,7 +269,7 @@
       "type": 3,
       "api": "csp_TTian",
       "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+      "ext": "https://op.ysdqjs.cn$$$null$$$1"
     },
     {
       "key": "lltv_追剧弹幕-PG-高天流云",
@@ -277,7 +277,7 @@
       "type": 3,
       "api": "csp_TTian",
       "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
-      "ext": "http://app.kzjtv.com$$$null$$$1"
+      "ext": "https://app.kzjtv.com$$$null$$$1"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -676,7 +676,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
+      "ext": "https://43.154.162.194/ruifenglb_api.php/v1.vod"
     },
     {
       "key": "lltv_私人影院-公子",
@@ -756,7 +756,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+      "ext": "https://yingszj.xn--654a.cc/api.php/app/"
     },
     {
 	    "key": "lltv_小镇-夜猫",
@@ -934,7 +934,7 @@
     { "key": "lltv_八戒",
       "name":"八戒┃采集",
       "type":1,
-      "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+      "api": "https://cj.bajiecaiji.com/inc/apijson_vod.php",
       "searchable":1,
       "quickSearch":1
     },
@@ -1030,8 +1030,8 @@
       "key": "lltv_飞刀-夜猫",
       "name": "飞刀┃采集",
       "type": 1,
-      "api": "http://iycms.feidaozy.com/api.php/provide/vod",
-      "playurl": "json:http://www.feidaozy.com/?url=",
+      "api": "https://iycms.feidaozy.com/api.php/provide/vod",
+      "playurl": "json:https://www.feidaozy.com/?url=",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -1083,7 +1083,7 @@
       "key": "lltv_非凡",
       "name": "非凡┃采集",
       "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "playurl": "json:https://svip.ffzyplay.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -1742,7 +1742,7 @@
       "name": "异界┃采集",
       "api": "csp_AppYsV2",
       "type": 3,
-      "ext": "http://ysjtv.yy365.vip/api.php/app/"
+      "ext": "https://ysjtv.yy365.vip/api.php/app/"
     },
     {
       "key": "lltv_业余-心动-业余",
@@ -1782,7 +1782,7 @@
       "key": "lltv_最大",
       "name": "最大┃采集",
       "type": 1,
-      "api": "http://zuidazy.co/api.php/provide/vod/",
+      "api": "https://zuidazy.co/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -1941,7 +1941,7 @@
       "type": 3,
       "api": "csp_TTian",
       "jar": "./jar/Yu.jar",
-      "ext": "http://v.rbotv.cn"
+      "ext": "https://v.rbotv.cn"
     },
     {
 	    "key": "lltv_忍者-夜猫",
@@ -1953,7 +1953,7 @@
 	    "searchable": 1,
 	    "quickSearch": 1,
 	    "filterable": 0,
-    	"ext": "http://rzys.xyz"
+    	"ext": "https://rzys.xyz"
     },
     {
       "key": "lltv_苏苏-cally",
@@ -1995,7 +1995,7 @@
       "playerType": 1,
       "api": "csp_TTian",
       "jar": "./jar/qiaoji.jar",
-      "ext": "http://op.ysdqjs.cn"
+      "ext": "https://op.ysdqjs.cn"
     },
     {
       "key": "lltv_文才=秒播-欧歌-Yu",
@@ -2064,7 +2064,7 @@
       "type": 3,
       "api": "csp_TTian",
       "jar": "./jar/Yu.jar",
-      "ext": "http://app.kzjtv.com"
+      "ext": "https://app.kzjtv.com"
     },
     {
       "key": "lltv_茶杯狐-天天-欧歌",
@@ -3073,7 +3073,7 @@
       "type": 0,
       "playerType": 1,
       "url": "https://code.wixy.cn/lltv/by/raw/branch/main/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       //"logo": "https://live.fanmingming.com/tv/",
       "ua": "okhttp/3.15"
