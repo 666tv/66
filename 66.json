@@ -437,6 +437,13 @@
       "ext": "./json/草民.json"
     },
     {
+	    "key": "lltv_晨光电影-天天",
+	    "name": "晨光┃资源",
+	    "type": 3,
+	    "api": "csp_XBPQ",
+	    "ext":"./json/晨光电影.json"
+    },
+    {
       "key": "lltv_CZ",
       "name": "厂长┃资源",
       "type": 3,
@@ -699,6 +706,13 @@
       "ext": "./json/私人2.json"
     },
     {
+	    "key": "lltv_三米影视-天天",
+	    "name": "三米┃资源",
+	    "type": 3,
+	    "api": "csp_XBPQ",
+	    "ext": "./json/三米.json"
+    },
+    {
       "key": "lltv_骚火VIP",
       "name": "骚火┃资源",
       "type": 3,
@@ -759,14 +773,24 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "lltv_小镇-夜猫",
-      "name": "小镇┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/电影小镇.json"
+	    "key": "lltv_小镇-夜猫",
+	    "name": "小镇┃资源",
+    	"type": 3,
+	    "api": "csp_XBPQ",
+    	"searchable": 1,
+    	"quickSearch": 1,
+    	"filterable": 1,
+    	"ext": "./json/电影小镇.json"
+    },
+    {
+    	"key": "lltv_小熊影视-天天",
+    	"name": "小熊┃资源",
+    	"type": 3,
+    	"api": "csp_XBPQ",
+    	"searchable": 1,
+    	"quickSearch": 1,
+    	"filterable": 1,
+    	"ext": "./json/小熊影视.json"
     },
     {
       "key": "lltv_星辰-天天",
@@ -810,11 +834,11 @@
       "ext":"./json/臻品电影.json"
     },
     {
-      "key": "lltv_追影-夜猫",
-      "name": "追影┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/追影.json"
+	    "key": "lltv_追影-夜猫",
+    	"name": "追影┃资源",
+    	"type": 3,
+    	"api": "csp_XBPQ",
+	    "ext": "./json/追影.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1944,16 +1968,16 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "lltv_忍者-夜猫",
-      "name": "忍者┃资源",
-      "type": 3,
+	    "key": "lltv_忍者-夜猫",
+	    "name": "忍者┃资源",
+	    "type": 3,
       "playerType": 2,
-      "api": "csp_YMRZ",
+	    "api": "csp_YMRZ",
       "jar": "./jar/xymz0513.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://rzys.xyz"
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+    	"ext": "http://rzys.xyz"
     },
     {
       "key": "lltv_苏苏-cally",
@@ -2284,12 +2308,12 @@
       "ext": "./json/348.json"
     },
     {
-      "key": "lltv_360采集-夜猫",
-      "name": "360┃采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "playurl": "json:https://www.360jiexi.com/player/?url=",
-      "categories": [
+		  "key": "lltv_360采集-夜猫",
+		  "name": "360┃采集",
+		  "type": 1,
+  		"api": "https://360zy.com/api.php/provide/vod",
+		  "playurl": "json:https://www.360jiexi.com/player/?url=",
+	    "categories": [
         "动作片",
         "喜剧片",
         "爱情片",
@@ -2324,7 +2348,7 @@
         "足球",
         "篮球"
       ] 
-    },
+	  },
     {
       "key": "lltv_555",
       "name": "555┃资源",
@@ -2538,11 +2562,11 @@
       "ext":"./json/LIBHD.json"
     },
     {
-      "key": "lltv_Cokemv-潇洒",
-      "name": "Cokemv┃资源",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/cokemv.js"
+	  "key": "lltv_Cokemv-潇洒",
+  	  "name": "Cokemv┃资源",
+ 	  "type": 3,
+	  "api": "./js/drpy2.min.js",
+	  "ext": "./js/cokemv.js"
     },
     {
       "key": "lltv_VidHub-鸭-肥猫",
@@ -2647,8 +2671,8 @@
       "searchable": 0,
       "changeable": 0,
       "style": {
-      "type": "rect",
-      "ratio": 1},
+          "type": "rect",
+          "ratio": 1},
       "ext":"./json/token.json"
     },
     {
