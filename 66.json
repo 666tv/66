@@ -356,20 +356,11 @@
       "ext": "./js/斗鱼.js"
     },
     {
-      "key": "lltv_虎牙-ok-鸭",
+      "key": "lltv_虎牙-道长-ok-鸭",
       "name": "虎牙┃直播",
       "type": 3,
-      "playerType": 2,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/虎牙.js",
-      "style": {
-      "type": "rect",
-      "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout": 10
+      "ext": "./js/虎牙直播.js"
     },
     {
       "key": "lltv_Yj1211-小胡-鸭",
@@ -3096,7 +3087,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://gitdl.cn/https://raw.githubusercontent.com/666tv/by/main/live.txt",
+      "url": "https://git.xswitch.cn/66tv/by/raw/branch/main/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       //"logo": "https://live.fanmingming.com/tv/",
