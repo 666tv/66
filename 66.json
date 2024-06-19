@@ -96,11 +96,19 @@
       "ext": "./json/疯狗影视.json"
     },
     {
-      "key": "lltv_HH",
-      "name": "66⚡️HH",
+      "key": "lltv_JP-道长-天天-鸭",
+      "name": "66⚡️JP",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/JP.js"
+    },
+    {
+      "key": "lltv_JS",
+      "name": "66⚡️JS",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
-      "playurl": "json:https://hhjiexi.com/play/?url=",
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+      "playurl": "json:https://jsjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -132,14 +140,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "lltv_JP-道长-天天-鸭",
-      "name": "66⚡️JP",
-      "type": 3,
-      "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/JP.js"
     },
     {
       "key": "lltv_快看-PG-云星-Yu",
@@ -1194,6 +1194,44 @@
         "日本动漫",
         "欧美动漫",
         "体育赛事"
+      ]
+    },
+    {
+      "key": "lltv_HH",
+      "name": "豪华┃采集",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
+      "playurl": "json:https://hhjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "爱情片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "灾难片",
+        "剧情片",
+        "记录片",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
       ]
     },
     {
