@@ -47,46 +47,46 @@
       "ext": "./json/Bili短剧.json"
     },
     {
-      "key": "lltv_星芽短剧-欧歌",
-      "name": "星芽┃短剧",
-      "type": 3,
-      "api": "csp_AppXY",
+	    "key": "lltv_星芽短剧-欧歌",
+	    "name": "星芽┃短剧",
+	    "type": 3,
+	    "api": "csp_AppXY",
       "jar": "./jar/ogjar.php;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+	    "searchable": 1,
+	    "quickSearch": 0,
+	    "filterable": 0
     },
     {
-      "key": "lltv_秒播短剧-欧歌-摸鱼",
-      "name": "秒播┃短剧",
-      "type": 3,
-      "api": "csp_Wexduanjuvop",
+	    "key": "lltv_秒播短剧-欧歌-摸鱼",
+	    "name": "秒播┃短剧",
+	    "type": 3,
+	    "api": "csp_Wexduanjuvop",
       "jar": "./jar/ogjar.php;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
-      "searchable": 1,
-      "changeable": 1
+	    "searchable": 1,
+	    "changeable": 1
     },
     {
-      "key": "lltv_极品短剧-欧歌",
-      "name": "极品┃短剧",
-      "type": 3,
-      "api": "csp_Wexduanjuvmp",
+	    "key": "lltv_极品短剧-欧歌",
+	    "name": "极品┃短剧",
+	    "type": 3,
+	    "api": "csp_Wexduanjuvmp",
       "jar": "./jar/ogjar.php;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
-      "searchable": 1,
-      "changeable": 1
+	    "searchable": 1,
+	    "changeable": 1
     },
     {
-      "key": "lltv_胖嘟嘟-欧歌",
-      "name": "嘟嘟┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
+	    "key": "lltv_胖嘟嘟-欧歌",
+	    "name": "嘟嘟┃短剧",
+	    "type": 3,
+	    "api": "csp_XBPQ",
       "jar": "./jar/ogjar.php;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "分类": "全部$qb#言情$yq#古代$dg#都市$ds",
-      "分类url": "https://m.pangdo.com/{cateId}/list_{catePg}.html"
-      }
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "ext": {
+		  "分类": "全部$qb#言情$yq#古代$dg#都市$ds",
+	  	"分类url": "https://m.pangdo.com/{cateId}/list_{catePg}.html"
+	    }
     },
     {
       "key": "lltv_吾爱短剧",
@@ -95,8 +95,8 @@
       "api": "csp_Bili",
       "jar": "./jar/PizazzGY.jar",
       "style": {
-      "type": "rect",
-      "ratio": 1.597
+        "type": "rect",
+        "ratio": 1.597
       },
       "searchable": 1,
       "quickSearch": 0,
@@ -200,6 +200,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "lltv_极速",
+      "name": "极速┃短剧",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+      "playurl": "json:https://jsjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
       "categories": [
         "短剧"
       ]
