@@ -356,20 +356,11 @@
       "ext": "./js/斗鱼.js"
     },
     {
-      "key": "lltv_虎牙-ok-鸭",
+      "key": "lltv_虎牙-道长-ok-鸭",
       "name": "虎牙┃直播",
       "type": 3,
-      "playerType": 2,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/虎牙.js",
-      "style": {
-      "type": "rect",
-      "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout": 10
+      "ext": "./js/虎牙直播.js"
     },
     {
       "key": "lltv_Yj1211-小胡-鸭",
@@ -477,16 +468,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/蛋蛋影视.json"
-    },
-    {
-      "key":"lltv_飞飞",
-      "name":"飞飞┃资源",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"./json/飞飞影视.json"
     },
     {
       "key": "lltv_黑狐-肥猫-天天-鸭",
@@ -781,16 +762,6 @@
     	"quickSearch": 1,
     	"filterable": 1,
     	"ext": "./json/电影小镇.json"
-    },
-    {
-    	"key": "lltv_小熊影视-天天",
-    	"name": "小熊┃资源",
-    	"type": 3,
-    	"api": "csp_XBPQ",
-    	"searchable": 1,
-    	"quickSearch": 1,
-    	"filterable": 1,
-    	"ext": "./json/小熊影视.json"
     },
     {
       "key": "lltv_星辰-天天",
@@ -1263,6 +1234,44 @@
         "动漫电影",
         "综艺",
         "体育赛事"
+      ]
+    },
+    {
+      "key": "lltv_极速",
+      "name": "极速┃采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+      "playurl": "json:https://jsjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "爱情片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "灾难片",
+        "剧情片",
+        "记录片",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
       ]
     },
     { 
