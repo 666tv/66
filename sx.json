@@ -20,6 +20,26 @@
       "ext": ""
     },
     {
+      "key":"lltv_飞飞",
+      "name":"飞飞┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./json/飞飞影视.json"
+    },
+    {
+    	"key": "lltv_小熊影视-天天",
+    	"name": "小熊┃资源",
+    	"type": 3,
+    	"api": "csp_XBPQ",
+    	"searchable": 1,
+    	"quickSearch": 1,
+    	"filterable": 1,
+    	"ext": "./json/小熊影视.json"
+    },
+    {
       "key": "lltv_VIP电影",
       "name": "VIP┃影院",
       "type": 3,
