@@ -172,14 +172,13 @@
        "ext": "./json/破晓.json"
     },
     {
-      "key": "lltv_秒播=文才-夜猫-不良",
-      "name": "66⚡️WC",
+      "key": "lltv_天天-巧技-欧歌-Yu",
+      "name": "66⚡️TT",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/秒播.json"
+      "playerType": 1,
+      "api": "csp_TTian",
+      "jar": "./jar/qiaoji.jar",
+      "ext": "http://op.ysdqjs.cn"
     },
     {
       "key": "lltv_优质",
@@ -442,7 +441,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "https://www.czys.top/"
+      "ext": "https://czzy.top/"
     },
     {
        "key":"lltv_橙汁-欧歌",
@@ -608,6 +607,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/美柏.json"
+    },
+    {
+      "key": "lltv_秒播=文才-夜猫-不良",
+      "name": "秒播┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/秒播.json"
     },
     {
       "key": "lltv_泡剧网",
@@ -792,7 +801,7 @@
        "name": "桜空┃资源",
        "type": 3,
        "api": "csp_XBPQ",
-       "ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "大陆剧$81#港台剧$82#日剧$32#纪录片$88#综艺$91#动漫$1#日漫$46#国漫$47#美漫$85"}
+       "ext": {"分类url": "https://www.skr2.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "大陆剧$81#港台剧$82#日剧$32#纪录片$88#综艺$91#动漫$1#日漫$46#国漫$47#美漫$85"}
     },
     {
       "key": "lltv_臻品",
@@ -2020,15 +2029,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "lltv_天天-巧技-欧歌-Yu",
-      "name": "天天┃资源",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_TTian",
-      "jar": "./jar/qiaoji.jar",
-      "ext": "http://op.ysdqjs.cn"
     },
     {
       "key": "lltv_文才=秒播-欧歌-Yu",
