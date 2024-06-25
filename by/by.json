@@ -2,9 +2,11 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
+"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
-"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
+"logo": "https://gitee.com/lltv/by/raw/main/logo.png",
+
 
 "sites":[ 
 /*
@@ -67,7 +69,7 @@
       "ext": "./js/畅梦.js"
     },
     {
-      "key": "lltv_DD-肥猫-道长-鸭",
+      "key": "lltv_DD-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
       "playerType": 2,
@@ -75,7 +77,7 @@
       "ext": "./js/低端影视.js"
     },
     {
-	  "key": "lltv_电影港-夜猫-巧技-不良",
+	    "key": "lltv_电影港-夜猫-巧技-不良",
       "name": "66⚡️DY",
       "type": 3,
       "api": "csp_XYQHiker",
@@ -84,16 +86,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/电影港.json"
-    },
-    {
-      "key": "lltv_FG-天天",
-      "name": "66⚡️FG",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/疯狗影视.json"
     },
     {
       "key": "lltv_HH",
@@ -134,7 +126,7 @@
       ]
     },
     {
-      "key": "lltv_JP-道长-天天-鸭",
+      "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
       "playerType": 1,
@@ -142,7 +134,7 @@
       "ext": "./js/JP.js"
     },
     {
-      "key": "lltv_快看-PG-云星-Yu",
+      "key": "lltv_快看-PG-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
       "api": "csp_Kuaikan",
@@ -152,32 +144,27 @@
       "filterable": 1
     },
     {
-      "key": "lltv_666-天天",
-      "name": "66⚡️LL",
+      "key": "lltv_柠檬-巧技",
+      "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/666影视.json"
+      "api": "csp_Nmvod",
+      "jar": "./jar/qiaoji240620.jar",
+      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
     },
     {
-       "key":"lltv_破晓",
-       "name":"66⚡️PX",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "./json/破晓.json"
+      "key": "lltv_热播-巧技-Yu",
+      "name": "66⚡️RB",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./jar/qiaoji240620.jar",
+      "ext": "http://v.rbotv.cn"
     },
     {
       "key": "lltv_天天-巧技-欧歌-Yu",
       "name": "66⚡️TT",
       "type": 3,
-      "playerType": 1,
       "api": "csp_TTian",
-      "jar": "./jar/qiaoji.jar",
+      "jar": "./jar/qiaoji240620.jar",
       "ext": "http://op.ysdqjs.cn"
     },
     {
@@ -217,6 +204,16 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "lltv_zxzj-巧技-鸭-道长",
+      "name": "66⚡️ZX",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar": "./jar/qiaoji240620.jar",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -280,14 +277,14 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_360",
+      "key": "lltv_360-巧技-yytt",
       "name": "360🔥官源",
       "type": 3,
-      "api": "csp_SP33",
-      "jar": "./jar/yytt.jar",
-      "searchable": 1,
+      "api": "csp_SP360",
+      "jar": "./jar/qiaoji240620.jar",
+      "filterable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "searchable": 1
     },
     {
       "key":"lltv_MG",
@@ -397,14 +394,14 @@
       "ext": "./json/爱看.json"
     },
     {
-       "key":"lltv_布卡-欧歌",
-       "name":"布卡┃资源",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext": "./json/布卡.json"
+      "key":"lltv_布卡-欧歌",
+      "name":"布卡┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": "./json/布卡.json"
     },
     {
       "key": "lltv_策驰-荷城",
@@ -442,13 +439,14 @@
       "changeable": 1,
       "filterable": 1,
       "ext": "https://czzy.top/"
+    //"ext": "https://www.czzy77.com/"
     },
     {
-       "key":"lltv_橙汁-欧歌",
-       "name":"橙汁┃资源",
-       "type":3,
-       "api":"csp_XBPQ",
-       "ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}
+      "key":"lltv_橙汁-欧歌",
+      "name":"橙汁┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}
     },
     {
       "key": "lltv_电影大师-公子",
@@ -479,11 +477,11 @@
       "ext": "./json/黑狐.json"
     },
     {
-       "key":"lltv_河马-欧歌",
-       "name":"河马┃资源",
-       "type":3,
-       "api":"csp_XBPQ",
-       "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
+      "key":"lltv_河马-欧歌",
+      "name":"河马┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
     },
     {
       "key": "lltv_电影盒子-天天",
@@ -550,7 +548,7 @@
       "ext": "./json/看片狂人.json"
     },
     {
-      "key": "lltv_蚂蚁-心动-满天星辰",
+      "key": "lltv_蚂蚁-心动-满天星辰-巧技",
       "name": "蚂蚁┃资源",
       "type": 3,
       "api": "csp_XBPQ",
@@ -592,11 +590,11 @@
       "ext": "./json/HD魔力.json"
     },
     {
-       "key":"lltv_木瓜-欧歌",
-       "name":"木瓜┃资源",
-       "type":3,
-       "api":"csp_XBPQ",
-       "ext": "./json/木瓜.json"
+      "key":"lltv_木瓜-欧歌",
+      "name":"木瓜┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext": "./json/木瓜.json"
     },
     {
       "key": "lltv_美柏-天天",
@@ -619,6 +617,16 @@
       "ext": "./json/秒播.json"
     },
     {
+      "key":"lltv_破晓",
+      "name":"破晓┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/破晓.json"
+    },
+    {
       "key": "lltv_泡剧网",
       "name":"泡剧┃资源",
       "type":3,
@@ -639,11 +647,11 @@
       "ext": "./json/胖虎.json"
     },
     {
-       "key":"lltv_片吧-欧歌",
-       "name":"片吧┃资源",
-       "type":3,
-       "api":"csp_XBPQ",
-       "ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}
+      "key":"lltv_片吧-欧歌",
+      "name":"片吧┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}
     },
     {
       "key": "lltv_七新-荷城",
@@ -797,11 +805,11 @@
       "ext": "./json/洋芋.json"
     },
     {
-       "key": "lltv_桜空-欧歌",
-       "name": "桜空┃资源",
-       "type": 3,
-       "api": "csp_XBPQ",
-       "ext": {"分类url": "https://www.skr2.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "大陆剧$81#港台剧$82#日剧$32#纪录片$88#综艺$91#动漫$1#日漫$46#国漫$47#美漫$85"}
+      "key": "lltv_桜空-欧歌",
+      "name": "桜空┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {"分类url": "https://www.skr2.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "大陆剧$81#港台剧$82#日剧$32#纪录片$88#综艺$91#动漫$1#日漫$46#国漫$47#美漫$85"}
     },
     {
       "key": "lltv_臻品",
@@ -1431,6 +1439,57 @@
       ]
     },
     {
+      "key": "lltv_黑木耳-巧技",
+      "name": "木耳┃采集",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "经典片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "纪录片",
+        "歌舞片",
+        "同性片",
+        "网络电影",
+        "动画电影",
+        "国产剧",
+        "港剧",
+        "台剧",
+        "日剧",
+        "韩剧",
+        "泰剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "动画片",
+        "国产动漫",
+        "港台动漫",
+        "韩国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "其他动漫",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺"
+      ]
+    },
+    {
       "key": "lltv_奇虎",
       "name":"奇虎┃采集",
       "type":1,
@@ -1851,15 +1910,14 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  lltv2345/jk.txt/og.php/pg.jar/Yu.jar/fan.txt/xpg.jar/xymz0513.jar/ttkx.jar/yytt.jar/XBPQ2.jar/taoju.jar/qiaoji.jar/spider.txt/yunxing.jar/PizazzGY.jar/cally0407.jar
     {
-      "key": "lltv_哔嘀-夜猫-PizazzGY",
-      "name": "哔嘀┃资源",
+      "key": "lltv_哔滴-巧技-夜猫-PizazzGY",
+      "name": "哔滴┃资源",
       "type": 3,
-      "playerType":1,
-      "api": "csp_Bdys",
-      "jar": "./jar/xymz0513.jar",
-      "searchable": 1,
+      "api": "csp_Bdys01",
+      "jar": "./jar/qiaoji240620.jar",
+      "filterable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "searchable": 1
     },
     {
       "key": "lltv_比特-鸭",
@@ -1883,34 +1941,37 @@
       "ext": "./json/臭蛋蛋影视.json"
     },
     {
-      "key": "lltv_腐剧-欧歌-Yu",
-      "name": "腐剧┃资源",
+      "key": "lltv_发电-巧技",
+      "name": "发电┃资源",
       "type": 3,
-      "api": "csp_WexFujutv",
-      "jar": "./jar/Yu.jar",
+      "api": "csp_Fdys",
+      "jar": "./jar/qiaoji240620.jar"
+    },
+    {
+      "key": "lltv_酷看-欧歌-天天-饭-Yu",
+      "name": "酷看┃资源",
+      "type":3,
+      "api":"csp_Wexkukantv",
+      "jar": "./jar/ogjar0520.php",
+      "searchable":1,
+      "changeable":1
+    },
+    {
+      "key": "lltv_看看-巧技",
+      "name": "看看┃资源",
+      "type": 3,
+      "api": "csp_KanKan",
+      "jar": "./jar/qiaoji240620.jar",
       "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "lltv_Gaoqing-高天流云",
-      "name": "高清┃资源",
-      "type": 3,
-      "api": "csp_Gaoqing",
-      "jar": "./jar/pgdm.jar;md5;8ac13fa2b75afe3efe5092bcbdf9dd14",
       "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
+      "filterable": 0
     },
     {
-       "key": "lltv_酷看-欧歌-天天-饭-Yu",
-       "name": "酷看┃资源",
-       "type":3,
-       "api":"csp_Wexkukantv",
-       "jar": "./jar/ogjar0520.php",
-       "searchable":1,
-       "changeable":1
+      "key": "lltv_雷电-巧技",
+      "name": "雷电┃资源",
+      "type": 3,
+      "api": "csp_Slys",
+      "jar": "./jar/qiaoji240620.jar"
     },
     {
       "key": "lltv_明日-Yu",
@@ -1933,7 +1994,7 @@
       "ext": "./json/奈飞中文.json"
     },
     {
-      "key": "lltv_南瓜-PG",
+      "key": "lltv_南瓜-PG-巧技",
       "name": "南瓜┃资源",
       "type": 3,
       "playerType": 2,
@@ -1978,14 +2039,6 @@
       "ext":"./json/小苹果.json"
     },
     {
-      "key": "lltv_热播-Yu-巧技",
-      "name": "热播┃资源",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "./jar/Yu.jar",
-      "ext": "http://v.rbotv.cn"
-    },
-    {
 	    "key": "lltv_忍者-夜猫",
 	    "name": "忍者┃资源",
 	    "type": 3,
@@ -2019,7 +2072,7 @@
       "ext": "./json/速映.json"
     },
     {
-      "key": "lltv_sliu-荷城",
+      "key": "lltv_sliu-巧技-荷城",
       "name": "石榴┃资源",
       "type": 3,
       "playerType": 2,
@@ -2059,6 +2112,13 @@
       "changeable": 1
     },
     {
+      "key": "lltv_月亮-巧技",
+      "name": "月亮┃资源",
+      "type": 3,
+      "api": "csp_Ylys",
+      "jar": "./jar/qiaoji240620.jar"
+    },
+    {
       "key": "lltv_电影牛-云星",
       "name": "影牛┃资源",
       "type": 3,
@@ -2081,22 +2141,11 @@
       "ext": "./json/子子影视.json"
     },
     {
-      "key": "lltv_zxzj-鸭-道长",
-      "name": "在线┃资源",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "jar": "./jar/lltv3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
       "key": "lltv_追剧-Yu-巧技",
       "name": "追剧┃资源",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./jar/Yu.jar",
+      "jar": "./jar/qiaoji240620.jar",
       "ext": "http://app.kzjtv.com"
     },
     {
@@ -2370,6 +2419,16 @@
       "timeout": 15
     },
     {
+      "key": "lltv_666-天天",
+      "name": "666┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/666影视.json"
+    },
+    {
       "key": "lltv_996-鸭",
       "name": "996┃资源",
       "type": 3,
@@ -2472,6 +2531,16 @@
       ]
     },
     {
+      "key": "lltv_FG-天天",
+      "name": "FG┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/疯狗影视.json"
+    },
+    {
       "key": "lltv_NY影院-道长",
       "name": "NY┃资源",
       "type": 3,
@@ -2547,7 +2616,7 @@
       "name": "Auete┃资源",
       "type": 3,
       "api": "csp_Auete",
-      "jar": "./jar/fix24318.jar",
+      "jar": "./jar/qiaoji240620.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2571,11 +2640,22 @@
       "ext":"./json/LIBHD.json"
     },
     {
-	  "key": "lltv_Cokemv-潇洒",
-  	  "name": "Cokemv┃资源",
- 	  "type": 3,
-	  "api": "./js/drpy2.min.js",
-	  "ext": "./js/cokemv.js"
+      "key": "lltv_LibVio-巧技",
+      "name": "LibVio┃资源",
+      "type": 3,
+      "api": "csp_Lib",
+      "jar": "./jar/qiaoji240620.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://libvio.link/static/js/playerconfig.js"
+    },
+    {
+	    "key": "lltv_Cokemv-潇洒",
+    	"name": "Cokemv┃资源",
+   	  "type": 3,
+	    "api": "./js/drpy2.min.js",
+	    "ext": "./js/cokemv.js"
     },
     {
       "key": "lltv_VidHub-鸭-肥猫",
@@ -2618,7 +2698,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  PizazzGY.jar/wuai0928.jar/0723.jar
     {
-      "key": "lltv_新哔哩",
+      "key": "lltv_新哔哩-巧技",
       "name": "吾爱┃哔哩",
       "type": 3,
       "api": "csp_Bili",
@@ -2713,14 +2793,45 @@
 //解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "parses": [
     {
-      "name": "嗅探",
-      "type": 3,
-      "url": "Web"
-    },
-    {
       "name": "聚合",
       "type": 3,
       "url": "Demo"
+    },
+    {
+      "name": "Json",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "LLTV",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+    //"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
       "name": "LLTV_1",
