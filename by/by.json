@@ -477,6 +477,16 @@
       "ext": "./json/黑狐.json"
     },
     {
+      "key": "lltv_河狸-Yu",
+      "name": "河狸┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.heli888.cc/api.php/app/"
+    },
+    {
       "key":"lltv_河马-欧歌",
       "name":"河马┃资源",
       "type":3,
@@ -672,6 +682,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/奇优影视.json"
+    },
+    {
+      "key": "lltv_千神-Yu",
+      "name": "千神┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.56aq.com/api.php/app/"
     },
     {
       "key": "lltv_晴天-心动-满天星辰",
@@ -2201,7 +2221,7 @@
       "changeable": 1
     },
     {
-      "key": "lltv_鸭奈飞-天天-鸭",
+      "key": "lltv_鸭奈飞-天天-Yu-鸭",
       "name": "鸭奈飞┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -2247,6 +2267,16 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/追剧迷.js"
+    },
+    {
+      "key": "lltv_追剧兔-Yu",
+      "name": "追剧兔┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.zjtu.tv/api.php/app/"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2640,6 +2670,13 @@
       "ext":"./json/LIBHD.json"
     },
     {
+	    "key": "lltv_Cokemv-潇洒",
+    	"name": "Cokemv┃资源",
+   	  "type": 3,
+	    "api": "./js/drpy2.min.js",
+	    "ext": "./js/cokemv.js"
+    },
+    {
       "key": "lltv_LibVio-巧技",
       "name": "LibVio┃资源",
       "type": 3,
@@ -2651,11 +2688,14 @@
       "ext": "https://libvio.link/static/js/playerconfig.js"
     },
     {
-	    "key": "lltv_Cokemv-潇洒",
-    	"name": "Cokemv┃资源",
-   	  "type": 3,
-	    "api": "./js/drpy2.min.js",
-	    "ext": "./js/cokemv.js"
+      "key": "lltv_NetFix-Yu",
+      "name": "NetFix┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.netfly.tv/api.php/app/"
     },
     {
       "key": "lltv_VidHub-鸭-肥猫",
@@ -3216,7 +3256,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://gitdl.cn/https://raw.githubusercontent.com/666tv/by/main/live.txt",
+      "url": "./live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       //"logo": "https://live.fanmingming.com/tv/",
