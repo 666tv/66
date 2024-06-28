@@ -14,8 +14,7 @@
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
-    //"jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -218,7 +217,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_MV",
-      "name": "66⚡️MV",
+      "name": "66❤️MV",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/og.php",
@@ -229,7 +228,7 @@
     },
     {
       "key": "lltv_哔哩音乐",
-      "name": "66⚡️音乐",
+      "name": "66❤️音乐",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/PizazzGY.jar",
@@ -240,7 +239,7 @@
     },
     {
       "key": "lltv_企鹅-荷城-鸭-饭",
-      "name": "66⚡️体育",
+      "name": "66❤️体育",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -251,7 +250,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_南瓜弹幕-PG-高天流云",
-      "name": "NG🍥弹幕",
+      "name": "NG💙弹幕",
       "type": 3,
       "api": "csp_NanGua",
       "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
@@ -261,7 +260,7 @@
     },
     {
       "key": "lltv_天天弹幕-PG-高天流云",
-      "name": "TT🍥弹幕",
+      "name": "TT💙弹幕",
       "type": 3,
       "api": "csp_TTian",
       "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
@@ -269,7 +268,7 @@
     },
     {
       "key": "lltv_追剧弹幕-PG-高天流云",
-      "name": "ZJ🍥弹幕",
+      "name": "ZJ💙弹幕",
       "type": 3,
       "api": "csp_TTian",
       "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
