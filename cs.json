@@ -20,6 +20,16 @@
       "ext": "./js/douban.js"
     },
     {
+      "key": "lltv_DB-PG",
+      "name": "👇点主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "lltv_DB-MY",
       "name": "🌕️MY点击主页切换资源•推荐电信网络",
       "type": 3,
@@ -68,6 +78,36 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key":"lltv_旺旺",
+      "name":"旺旺┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/旺旺.json"
+    },
+    {
+      "key":"lltv_星光",
+      "name":"星光┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/星光.json"
+    },
+    {
+      "key":"lltv_星辰",
+      "name":"星辰┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/星辰.json"
+    },
+    {
        "key":"lltv_破晓",
        "name":"破晓┃资源",
        "type":3,
@@ -82,7 +122,7 @@
       "name": "荐片",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
+      "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/JP.json$$$1",
@@ -247,78 +287,10 @@
       },
       "timeout": 10
     },
-    
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "lltv_NRTFIY星球-Yu",
-      "name": "⚡NETFIY┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.netfly.tv/api.php/app/"
-    },
-    {
-      "key": "lltv_鸭奈飞-Yu",
-      "name": "⚡鸭飞┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yanetflix.me/api.php/app/"
-    },
-    {
-      "key": "lltv_追剧兔-Yu",
-      "name": "⚡剧兔┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zjtu.tv/api.php/app/"
-    },
-    {
-      "key": "lltv_北极狐-Yu",
-      "name": "⚡北狐┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "lltv_河狸-Yu",
-      "name": "⚡河狸┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.heli888.cc/api.php/app/"
-    },
-    {
-      "key": "lltv_影视之家-Yu",
-      "name": "⚡影窝┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "lltv_千神-Yu",
-      "name": "⚡千神┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.56aq.com/api.php/app/"
-    },
+    
+    
+    
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_豆瓣预告-肥猫",
@@ -328,14 +300,6 @@
       "api": "csp_YGP",
       "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
       "searchable": 0
-    },
-    {
-      "key": "lltv_Freeok-肥猫",
-      "name": "️️👌┃FreeOK┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_Freeok",
-      "jar": "./jar/PandaQ240408.jar"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -353,7 +317,7 @@
       "name": "👑网盘┃弹幕┃配置👑",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 0,
       "changeable": 0,
       "style": {
