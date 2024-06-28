@@ -4,9 +4,9 @@
 {
 "spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
-"warningText": "勿信视频中任何广告！专人维护•不定期更新！",
+"warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
-	
+
 "sites":[ 
 
     {
@@ -59,7 +59,7 @@
       "name": "MJ🍥弹幕",
       "type": 3,
       "api": "csp_Meijumi",
-      "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
+      "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -71,7 +71,7 @@
       "name": "ML🍥弹幕",
       "type": 3,
       "api": "csp_Moli",
-      "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
+      "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -182,16 +182,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/开心影视.json"
-    },
-    {
-      "key": "网盘设置",
-      "name": "网盘┃设置",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/pg.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/lltv/tokenm.json"
     },
     {
       "key": "虎牙ok",
@@ -349,7 +339,7 @@
       "name": "迅雷┃资源",
       "type": 3,
       "api": "csp_Xunlei8",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "changeable": 1,
       "timeout": 60
     },
@@ -698,7 +688,7 @@
       "name": "高清┃资源",
       "type": 3,
       "api": "csp_Gaoqing",
-      "jar": "./jar/pgdm.jar;md5;8ac13fa2b75afe3efe5092bcbdf9dd14",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -924,7 +914,7 @@
       "name": "LL⚡️YQ",
       "type": 3,
       "api": "csp_YQKan",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -980,7 +970,7 @@
       "name": "极狐┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1075,7 +1065,7 @@
       "name": "皮皮虾┃资源",
       "type": 3,
       "api": "csp_Ppxzy",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1176,7 +1166,7 @@
       "name": "CK┃资源",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1261,7 +1251,7 @@
       "name": "影巢┃资源",
       "type": 3,
       "api": "csp_Hdhive",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1277,7 +1267,7 @@
       "ext": "./js/在线之家.js"
     },
     {
-      "key": "*CK资源",
+      "key": "*CK资源2",
       "name": "CK┃2",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
@@ -1323,7 +1313,7 @@
       "name": "影视车┃网盘",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1335,7 +1325,7 @@
       "name": "校长┃网盘",
       "type": 3,
       "api": "csp_XiaoZhang",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1347,7 +1337,7 @@
       "name": "团长┃网盘",
       "type": 3,
       "api": "csp_TZFile",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1378,7 +1368,7 @@
       "name": "影探┃资源2",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1492,7 +1482,7 @@
       "type": 3,
       "playerType":2,
       "api": "csp_AppYsV2",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
