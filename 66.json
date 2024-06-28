@@ -14,8 +14,7 @@
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
-    //"jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
