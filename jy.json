@@ -156,7 +156,7 @@
       "name": "急救┃知识 ",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
