@@ -93,7 +93,7 @@
       "name": "84┃动漫",
       "type": 3,
       "api": "csp_Dm84",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
+      "jar": "./jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
