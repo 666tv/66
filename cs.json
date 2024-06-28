@@ -21,13 +21,14 @@
     },
     {
       "key": "lltv_DB-PG",
-      "name": "👇点主页切换资源•推荐电信网络",
+      "name": "👇PG点主页切换资源•推荐电信网络",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_Douban",
       "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "changeable": 1,
+      "indexs": 1,
+      "ext": "./josn/douban.json"
     },
     {
       "key": "lltv_DB-MY",
@@ -41,7 +42,7 @@
     },
     {
       "key": "lltv_DB-MaoTv",
-      "name": "👇mao点主页切换资源•推荐电信网络",
+      "name": "👇MTV点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
