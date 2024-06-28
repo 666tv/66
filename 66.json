@@ -7,7 +7,6 @@
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
 
-
 "sites":[ 
 /*
     {
@@ -15,7 +14,8 @@
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
+    //"jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -138,7 +138,7 @@
       "name": "66⚡️KK",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -254,7 +254,7 @@
       "name": "NG🍥弹幕",
       "type": 3,
       "api": "csp_NanGua",
-      "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
+      "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "searchable": 1,
       "changeable": 1,
       "ext": "null$$$1"
@@ -264,7 +264,7 @@
       "name": "TT🍥弹幕",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
+      "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
     {
@@ -272,7 +272,7 @@
       "name": "ZJ🍥弹幕",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
+      "jar": "./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "ext": "http://app.kzjtv.com$$$null$$$1"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2019,7 +2019,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_NanGua",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -2626,22 +2626,6 @@
       "ext": "./json/NikeTV.json"
     },
     {
-      "key": "lltv_4KHDR-PG-高天流云",
-      "name": "4KHD┃资源",
-      "type": 3,
-      "api": "csp_FourKHDR",
-      "jar": "./jar/pg0516.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$./json/4khdr.txt$$$1",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
       "key": "lltv_Auete-巧技-肥猫",
       "name": "Auete┃资源",
       "type": 3,
@@ -2796,7 +2780,7 @@
       "name": "👑网盘┃弹幕┃配置👑",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 0,
       "changeable": 0,
       "style": {
