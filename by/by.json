@@ -715,7 +715,7 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_360-巧技-yytt",
+      "key": "lltv_三六零-巧技-yytt",
       "name": "360🔥官源",
       "type": 3,
       "api": "csp_SP360",
@@ -825,14 +825,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_爱看-公子",
-      "name": "爱看┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "./jar/lltv.jar",
-      "ext": "./json/爱看.json"
-    },
-    {
       "key": "lltv_爱看影视-公子",
       "name": "爱看┃资源",
       "type": 3,
@@ -862,16 +854,6 @@
       "ext": "./json/策驰.json"
     },
     {
-      "key": "lltv_草民-公子",
-      "name": "草民┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/草民.json"
-    },
-    {
       "key": "lltv_晨光电影-天天",
       "name": "晨光┃资源",
       "type": 3,
@@ -885,16 +867,6 @@
       "api":"csp_XBPQ",
       "searchable": 1,
       "ext":"./json/电影大师.json"
-    },
-    {
-      "key": "lltv_DD-荷城-鸭",
-      "name": "蛋蛋┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/蛋蛋影视.json"
     },
     {
       "key": "lltv_河狸-Yu",
@@ -2522,6 +2494,14 @@
       "ext": "./js/8号影院.js"
     },
     {
+      "key": "lltv_爱看-公子",
+      "name": "AK┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/lltv.jar",
+      "ext": "./json/爱看.json"
+    },
+    {
       "key": "lltv_APP影院",
       "name": "AP┃资源",
       "type": 3,
@@ -2681,20 +2661,10 @@
       "filterable": 1,
       "ext": "./jiaoyu/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
     },
-    {
-      "key": "lltv_短视频-鸭",
-      "name": "吾爱┃短视频@@@",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/短视频.js"
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  yytt.jar
     {
-      "key": "lltv_88-鸭",
+      "key": "lltv_88-天天-鸭",
       "name": "88┃体育",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -2704,8 +2674,8 @@
       "ext": "./js/88体育.js"
     },
     {
-      "key": "lltv_310-鸭",
-      "name": "310┃体育@@@",
+      "key": "lltv_310-天天-鸭",
+      "name": "310┃体育",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -2714,7 +2684,7 @@
       "ext": "./js/310体育.js"
     },
     {
-      "key": "lltv_JRK-鸭",
+      "key": "lltv_JRK-天天-鸭",
       "name": "JRK┃体育",
       "type": 3,
       "api": "./js/drpy2.min.js",
