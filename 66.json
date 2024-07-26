@@ -825,14 +825,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_爱看-公子",
-      "name": "爱看┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "./jar/lltv.jar",
-      "ext": "./json/爱看.json"
-    },
-    {
       "key": "lltv_爱看影视-公子",
       "name": "爱看┃资源",
       "type": 3,
@@ -2520,6 +2512,14 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/8号影院.js"
+    },
+    {
+      "key": "lltv_爱看-公子",
+      "name": "AK┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/lltv.jar",
+      "ext": "./json/爱看.json"
     },
     {
       "key": "lltv_APP影院",
