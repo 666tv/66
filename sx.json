@@ -21,6 +21,26 @@
       "ext": ""
     },
     {
+      "key": "lltv_草民-公子",
+      "name": "草民┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/草民.json"
+    },
+    {
+      "key": "lltv_DD-荷城-鸭",
+      "name": "蛋蛋┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/蛋蛋影视.json"
+    },
+    {
       "key": "lltv_西屋-cally",
       "name": "西屋┃资源",
       "type": 3,
