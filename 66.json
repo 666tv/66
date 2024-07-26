@@ -2661,20 +2661,10 @@
       "filterable": 1,
       "ext": "./jiaoyu/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
     },
-    {
-      "key": "lltv_短视频-鸭",
-      "name": "吾爱┃短视频@@@",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/短视频.js"
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  yytt.jar
     {
-      "key": "lltv_88-鸭",
+      "key": "lltv_88-天天-鸭",
       "name": "88┃体育",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -2684,8 +2674,8 @@
       "ext": "./js/88体育.js"
     },
     {
-      "key": "lltv_310-鸭",
-      "name": "310┃体育@@@",
+      "key": "lltv_310-天天-鸭",
+      "name": "310┃体育",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -2694,7 +2684,7 @@
       "ext": "./js/310体育.js"
     },
     {
-      "key": "lltv_JRK-鸭",
+      "key": "lltv_JRK-天天-鸭",
       "name": "JRK┃体育",
       "type": 3,
       "api": "./js/drpy2.min.js",
