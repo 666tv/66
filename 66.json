@@ -2756,8 +2756,8 @@
     {
       "name": "LLTV",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
-    //"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+    //"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -2787,17 +2787,17 @@
     {
       "name": "LLTV_1",
       "type": 0,
-      "url": "https://www.huaqi.live/?url="
-    },
-    {
-      "name": "LLTV_2",
-      "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
+    },
+    {
+      "name": "LLTV_2",
+      "type": 0,
+      "url": "https://www.huaqi.live/?url="
     },
     {
       "name": "LLTV_3",
@@ -2881,72 +2881,29 @@
           "User-Agent": "Dart/3.0(dart:io)"
           }
         }
+      },
+   {
+      "name": "BBA",
+      "type": "1",
+      "url": "http://43.248.100.147:1122/bba/json.php?url=",
+      "flag": [
+        "BBA"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
       }
-    ],
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-//旗帜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-"flags": [
-    "tudou",
-    "土豆",
-    "pptv",
-    "PPTV",
-    "wasu",
-    "qq",
-    "QQ",
-    "腾讯",
-    "qiyi",
-    "奇艺",
-    "iqiyi",
-    "爱奇艺",
-    "youku",
-    "优酷",
-    "tucheng",
-    "sohu",
-    "搜狐",
-    "letv",
-    "乐视",
-    "mgtv",
-    "芒果",
-    "bili",
-    "哔哩",
-    "bilibili",
-    "哔哩哔哩",
-    "xigua",
-    "西瓜",
-    "xmm",
-    "1905",
-    "m1905",
-    "imgo",
-    "funshion",
-    "dbm3u8",
-    "cool",
-    "tnmb",
-    "seven",
-    "yzm",
-    "ppayun",
-    "haiwaikan",
-    "renrenmi",
-    "aliyun",
-    "RJuMao",
-    "bilibili",
-    "xinvip",
-    "XAL",
-    "qiqi",
-    "XALS",
-    "SPA",
-    "ltnb",
-    "rx",
-    "SLYS4k",
-    "BYGA",
-    "luanzi",
-    "dxzy",
-    "QEYSS",
-    "ruyi1080",
-    "ruyib1080",
-    "YuMi-vip"
+    },
+    {
+      "name": "NBY",
+      "type": "1",
+      "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+      "flag": [
+        "NBY"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    }
     ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
