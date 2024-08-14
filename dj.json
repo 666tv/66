@@ -38,6 +38,19 @@
       "filterable": 1
     },
     {
+      "key": "lltv_在线短剧",
+      "name": "在线┃短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "jar": "./jar/PGYdanmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
       "key":"lltv_短剧tv-夜猫",
       "name":"AI┃短剧",
       "type":3,
