@@ -793,6 +793,16 @@
       "ext": "./json/策驰.json"
     },
     {
+      "key": "lltv_厂长",
+      "name": "厂长┃资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czys.pro/"
+    },
+    {
       "key": "lltv_晨光电影-天天",
       "name": "晨光┃资源",
       "type": 3,
