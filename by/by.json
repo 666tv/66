@@ -2,7 +2,7 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/66tv.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+"spider": "./jar/66tv.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -791,6 +791,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/策驰.json"
+    },
+    {
+      "key": "lltv_厂长",
+      "name": "厂长┃资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czys.pro/"
     },
     {
       "key": "lltv_晨光电影-天天",
@@ -2893,7 +2903,7 @@
         }
       },
    {
-      "name": "BBA",
+      "name": "BBA专线",
       "type": "1",
       "url": "http://43.248.100.147:1122/bba/json.php?url=",
       "flag": [
@@ -2904,7 +2914,7 @@
       }
     },
     {
-      "name": "NBY",
+      "name": "NBY专线",
       "type": "1",
       "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
       "flag": [
@@ -2913,8 +2923,138 @@
       "header": {
         "User-Agent": "Dalvik/2.1.0"
       }
+    },
+    {
+      "name": "LX专线",
+      "type": "1",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "flag": [
+        "LXTX"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "DG专线",
+      "type": "1",
+      "url": "http://103.112.185.139:8989/api/?key=przwarpy6rKVZ7YA38&url=",
+      "flag": [
+        "SDLG"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "OL专线",
+      "type": "1",
+      "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
+      "flag": [
+        "BTOL"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "4K专线",
+      "type": "1",
+      "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
+      "flag": [
+        "4kvip"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "MX专线",
+      "type": "1",
+      "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
+      "flag": [
+        "m78"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "BD专线",
+      "type": "1",
+      "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+      "flag": [
+        "nmys"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "MY专线",
+      "type": "1",
+      "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+      "flag": [
+        "mytv"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "LL专线",
+      "type": "1",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "XGJ专线",
+      "type": "1",
+      "url": "http://43.248.100.147:1122/XGJ/keyef2f3dc4asd1fd564f132asc2asd1f.php?url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua",
+        "NBY",
+        "ETH-",
+        "mytv",
+        "nmys",
+        "BTOL",
+        "caihongyun",
+        "4kvip",
+        "m78"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "DM专线",
+      "type": "1",
+      "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+      "flag": [
+        "yhdm"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
     }
-    ],
+],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
