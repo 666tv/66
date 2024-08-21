@@ -18,6 +18,24 @@ CCTV15,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv15#http://ottrrs.h
 CCTV16,http://www.erbao1981.top:8188/udp/239.76.246.98:1234#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://ipv4.sunjianwu.fun:8800/rtp/239.49.0.109:8000#http://www.zzlag.top:9087/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV17,http://www.erbao1981.top:8188/udp/239.76.245.239:1234#http://www.zzlag.top:9087/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
 
+CCTV1,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV2,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+CCTV3,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV4,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV5,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV5+,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5+HD/__op/default/__f/index.m3u8
+CCTV6,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+CCTV7,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+CCTV8,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV9,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV10,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CCTV11,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+CCTV12,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+CCTV13,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
+CCTV14,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
+CCTV15,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+CCTV16,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+
 🇨🇳　卫视频道　👉,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://59.62.8.250:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8#http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=bjws
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8#http://58.19.38.162:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8#http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=tjws
