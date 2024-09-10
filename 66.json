@@ -51,7 +51,7 @@
     },
     {
       "key": "lltv_DB",
-      "name": "66⚡️豆瓣推荐",
+      "name": "66⚡️推荐",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -60,14 +60,22 @@
       "ext": "./js/douban.js"
     },
     {
+      "key": "lltv_豆瓣预告",
+      "name": "66⚡️预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 0
+    },
+    /*{
       "key": "lltv_DBYGP",
-      "name": "66⚡️豆瓣预告",
+      "name": "66⚡️预告",
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
       "searchable": 0,
       "ext": "./json/豆瓣预告.json"
-    },
+    },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_MV",
@@ -2842,6 +2850,17 @@
           "User-Agent": "Dart/3.0(dart:io)"
           }
         }
+    },
+    {
+      "name": "XMY专线",
+      "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+      "flag": [
+        "NBY"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
