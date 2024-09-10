@@ -2125,7 +2125,7 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  lltv2345/jk.txt/og.php/pg.jar/Yu.jar/fan.txt/xpg.jar/xymz0513.jar/ttkx.jar/yytt.jar/XBPQ2.jar/taoju.jar/qiaoji.jar/spider.txt/yunxing.jar/cally0407.jar
+//以下需适配  jk.txt/og.php/pg.jar/Yu.jar/fan.txt/xpg.jar/xymz0513.jar/ttkx.jar/yytt.jar/XBPQ2.jar/taoju.jar/qiaoji.jar/spider.txt/yunxing.jar/cally0407.jar
     {
       "key": "lltv_哔嘀影视-巧技-XYQ-夜猫",
       "name": "哔嘀┃资源",
@@ -2334,17 +2334,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/139影视.js"
-    },
-    {
-      "key": "lltv_348-鸭",
-      "name": "348┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/lltv2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/348.json"
     },
     {
       "key": "lltv_666-天天",
@@ -2688,12 +2677,7 @@
       "key": "lltv_Local-PG-鸭",
       "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
       "type": 3,
-      "api": "csp_LocalFile",
-      "jar": "./jar/lltv5;md5;6120d08f4eb1edce507bfcd1b339c482",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "type_flag": 0
+      "api": "csp_LocalFile"
     },
     {
       "key": "lltv",
