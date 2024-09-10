@@ -145,6 +145,26 @@
       "ext": "https://v.aikanbot.com"
     },
     {
+      "key": "lltv_爱看影视-公子",
+      "name": "66⚡️AK",
+      "type": 3,
+      "api": "csp_Ikan",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_小苹果",
+      "name": "66⚡️AP",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_白嫖者-天天",
       "name": "66⚡️BP",
       "type": 3,
@@ -355,6 +375,26 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_看客影视",
+      "name": "66⚡️KA",
+      "type": 3,
+      "api": "csp_Kanke",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_可可影视-XYQ",
@@ -722,15 +762,6 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "lltv_爱看影视-公子",
-      "name": "爱看┃资源",
-      "type": 3,
-      "api": "csp_Ikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key":"lltv_布卡-欧歌",
       "name":"布卡┃资源",
@@ -2387,25 +2418,6 @@
       "api": "csp_XBPQ",
      "jar": "./jar/lltv.jar",
       "ext": "./json/爱看.json"
-    },
-    {
-      "key": "lltv_APP影院",
-      "name": "AP┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/APP影院.json"
-    },
-    {
-      "key": "lltv_不卡影视",
-      "name": "BK┃资源",
-      "type": 3,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
     },
     {
       "key": "lltv_CK-心动-满天星辰",
