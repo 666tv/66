@@ -11,72 +11,25 @@
 "sites":[ 
 
     {
-      "key": "lltv_DB2-MaoTv",
-      "name": "👇MTV点主页切换资源•推荐电信网络",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "lltv_DB-JS",
-      "name": "👇js点击主页切换资源•推荐电信网络",
+      "key": "lltv_DB",
+      "name": "豆瓣⚡️推荐",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./js/douban.js"
     },
     {
-      "key": "lltv_DB-PG",
-      "name": "👇PG点主页切换资源•推荐电信网络",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "ext": "./json/douban.json"
-    },
-    {
-      "key": "lltv_DB-MY",
-      "name": "🌕️MY点击主页切换资源•推荐电信网络",
+      "key": "lltv_DB2-MaoTv",
+      "name": "猫豆瓣⚡️推荐",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "./jar/moyu.php",
+      "jar": "./jar/maotv.jar",
+      //"jar": "./jar/mtv;md5;d1115d99527d75948d095085b1407add",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "lltv_DB-吾爱",
-      "name": "👇wuai点主页切换资源•推荐电信网络",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./jar/wuai0928.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "lltv_DB-云星日记",
-      "name": "👇yx点击主页切换资源•推荐电信网络",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "./jar/云星日记.php",
-      "searchable": 0
-    },
-    {
-      "key": "lltv_DBYGP-云星日记",
-      "name": "LL⚡️预告片",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_YGP",
-      "jar": "./jar/云星日记.php",
-      "searchable": 0
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -88,6 +41,16 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": ""
+    },
+    {
+      "key": "lltv_Ikanbot-XYQ-PG",
+      "name": "66⚡️AI",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.aikanbot.com"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
