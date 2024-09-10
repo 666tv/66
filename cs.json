@@ -89,108 +89,6 @@
       "changeable": 0,
       "ext": ""
     },
-    {
-      "key": "lltv_hipy_js_采集之王[合]",
-      "name": "🎦采集之王",
-      "type": 3,
-      "api": "./js/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 210,
-      "ext": "./json/采集之王.js?type=url&params=./json/采集静态.json"
-    },
-    {
-      "key": "lltv_賤賤",
-      "name": "JP💙弹幕",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "./jar/pg240722.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/jianpian.json$$$1",
-      "timeout":60
-    },
-    {
-      "key": "lltv_南瓜影视",
-      "name": "南瓜影视",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_追剧影视",
-      "name": "追剧影视",
-      "type": 3,
-      "api": "csp_AppZJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_厂长资源",
-      "name": "厂长资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czys.pro/"
-    },
-    {
-      "key": "lltv_低端影视",
-      "name": "低端影视",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_全网影视",
-      "name": "全网影视",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_星辰影视",
-      "name": "星辰影视",
-      "type": 3,
-      "api": "csp_WexXingchen",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "lltv_立播影视",
-      "name": "立播影视",
-      "type": 3,
-      "api": "csp_Wexlibhd",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "lltv_铁剧影视",
-      "name": "铁剧影视",
-      "type": 3,
-      "api": "csp_AppBr",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "lltv_达达龟",
-      "name": "达达龟",
-      "type": 3,
-      "api": "csp_Dadag",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_lltv_KungFu404",
@@ -219,7 +117,10 @@
       "key": "lltv_Local-PG-鸭",
       "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
       "type": 3,
-      "api": "csp_LocalFile"
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "lltv",
@@ -535,11 +436,6 @@
 		"name": "快看广告",
 		"hosts": ["kuaikan"],
 		"regex": ["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-	},
-	{
-		"name": "磁力广告",
-		"hosts": ["magnet"],
-		"regex": ["更多", "请访问", "example", "社 區", "x u u", "直 播", "更 新", "社 区", "有趣", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠", "哥哥快来", "美女荷官", "新片首发", "UUE29","葡京"]
 	},
 	{
 		"name": "一起看广告",
