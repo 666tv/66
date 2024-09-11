@@ -18,6 +18,7 @@
       "playurl": "https://hhjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
       "categories": [
         "短剧",
         "内地剧",
@@ -82,8 +83,8 @@
       "name": "66❤️MV",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/哔哩MV.json"
     },
@@ -92,50 +93,24 @@
       "name": "66❤️音乐",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "./json/哔哩音乐.json"
     },
     {
-      "key": "lltv_企鹅-荷城-鸭-饭",
-      "name": "66❤️体育",
+      "key": "lltv_新哔哩-巧技",
+      "name": "66❤️哔哩",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/企鹅体育.json"
+      "ext": "https://7910.kstore.space/json/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_南瓜弹幕-PG-高天流云",
-      "name": "NG💙弹幕",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "./jar/pg240722.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1"
-    },
-    {
-      "key": "lltv_天天弹幕-PG-高天流云",
-      "name": "TT💙弹幕",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "./jar/pg240722.jar",
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
-    },
-    {
-      "key": "lltv_拳王争霸-鸭",
-      "name": "拳王💙争霸",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/quanwang.js"
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "lltv_ConfigCenter",
+      "key": "lltv_ConfigCenter-PG网盘",
       "name": "4K配置🍥观看4K资源需先在这里设置网盘参数",
       "type": 3,
       "api": "csp_ConfigCenter",
@@ -147,8 +122,8 @@
       }
     },
     {
-      "key": "lltv_玩偶GG",
-      "name": "66⚡️4K-观看4K资源需先在4K配置中设置网盘参数",
+      "key": "lltv_玩偶GG-PG网盘",
+      "name": "4K🍥观看4K资源需先在4K配置中设置网盘参数",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
@@ -161,6 +136,50 @@
       }
     },
     {
+      "key": "lltv_拳王争霸-鸭",
+      "name": "66🍥拳王争霸",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/quanwang.js"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_Ikanbot弹幕-讴歌",
+      "name": "66⚡️AI弹幕",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "./jar/jar.php;md5;d2741230d5013288c2e7669c53db7780",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+            "site": "https://v.aikanbot.com",
+            "danmu": true
+      }
+    },
+    {
+      "key": "lltv_南瓜弹幕-PG-高天流云",
+      "name": "66⚡️NG弹幕",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "./jar/pg240722.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "null$$$1"
+	},
+    {
+      "key": "lltv_天天弹幕-PG-高天流云",
+      "name": "66⚡️TT弹幕",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./jar/pg240722.jar",
+      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+	},
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
@@ -171,7 +190,7 @@
       "ext": "https://v.aikanbot.com"
     },
     {
-      "key": "lltv_爱看影视-公子",
+      "key": "lltv_爱看影视",
       "name": "66⚡️AK",
       "type": 3,
       "api": "csp_Ikan",
@@ -755,7 +774,7 @@
       "type": 3,
       "api": "csp_JustLive",
       "jar": "./jar/pg240722.jar",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0
     },
     {
@@ -765,8 +784,8 @@
       "playerType":1,
       "api": "csp_Yj1211",
       "jar": "./jar/ttkx240722.jar",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     },
     {
@@ -777,14 +796,18 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
+      "filterable": 1,
       "ext": "./js/斗鱼直播.js"
     },
     {
-      "key": "lltv_虎牙-道长-香雅情-ok-鸭",
+      "key": "lltv_虎牙-道长-ok-鸭",
       "name": "虎牙┃直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/虎牙直播.js"
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://7910.kstore.space/js/虎牙直播.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
