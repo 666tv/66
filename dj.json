@@ -11,6 +11,21 @@
 "sites":[ 
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_良品短剧",
+      "name": "良品┃短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lltv_天堂短剧",
+      "name": "天堂┃短剧",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/天堂短剧.js"
+    },
+    {
       "key": "lltv_星芽短剧-欧歌",
       "name": "星芽┃短剧",
       "type": 3,
@@ -30,19 +45,12 @@
       "filterable": 1
     },
     {
-      "key": "lltv_良品短剧",
-      "name": "良品┃短剧",
-      "type": 3,
-      "api": "csp_Wexduanjuvip",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "lltv_无忧短剧",
       "name": "无忧┃短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
+      "jar": "./jar/66tv0910.jar",
+      //"jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -55,7 +63,8 @@
       "name": "在线┃短剧",
       "type": 3,
       "api": "csp_Duanju",
-      "jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
+      "jar": "./jar/66tv0910.jar",
+      //"jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -82,13 +91,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/河马短剧.json"
-    },
-    {
-      "key": "lltv_天堂短剧",
-      "name": "天堂┃短剧",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/天堂短剧.js"
     },
     {
       "key": "短剧屋",
