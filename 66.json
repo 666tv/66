@@ -65,12 +65,11 @@
       "name": "66⚡️豆瓣预告",
       "type": 3,
       "api": "csp_YGP",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 0
     },
     /*{
       "key": "lltv_DBYGP",
-      "name": "66⚡️豆瓣预告",
+      "name": "66⚡️预告",
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
@@ -83,6 +82,7 @@
       "name": "66❤️MV",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -93,6 +93,7 @@
       "name": "66❤️音乐",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -107,6 +108,48 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./js/quanwang.js"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_Bili-道长-鸭",
+      "name": "66💙哔哩直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://7910.kstore.space/js/哔哩直播.js"
+    },
+    {
+      "key": "lltv_斗鱼-菜妮丝-FM-运输车-鸭",
+      "name": "66💙斗鱼直播",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://7910.kstore.space/js/斗鱼直播.js"
+    },
+    /*{
+      "key": "lltv_虎牙-道长-ok-鸭",
+      "name": "66💙虎牙直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://7910.kstore.space/js/虎牙直播.js"
+    },*/
+    {
+      "key": "lltv_企鹅-荷城-鸭-饭",
+      "name": "66💙体育直播",
+      "type": 3,
+      "api": "csp_XPath",
+      "jar": "./jar/66tv0812.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://7910.kstore.space/json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -717,6 +760,7 @@
       "ext":"./js/优酷视频.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/*
     {
       "key": "lltv_Bili-道长-鸭",
       "name": "Bili┃直播",
@@ -768,6 +812,7 @@
       "filterable": 1,
       "ext": "https://7910.kstore.space/js/虎牙直播.js"
     },
+*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
