@@ -114,7 +114,6 @@
       "name": "66⚡️AI弹幕",
       "type": 3,
       "api": "csp_Ikanbot",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -128,7 +127,6 @@
       "name": "66⚡️NG弹幕",
       "type": 3,
       "api": "csp_Nangua",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -141,7 +139,6 @@
       "name": "66⚡️TT弹幕",
       "type": 3,
       "api": "csp_TianTian",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -233,14 +230,10 @@
       "key": "lltv_厂长-天天",
       "name": "66⚡️CZ",
       "type": 3,
-      "api": "csp_NewCz",
-      "jar": "./jar/ttkx240909.jar;md5;56ffe5fc72be5f94267be472b59540a7",
-      "timeout": 15,
-      "playerType": 2,
+      "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czys.pro/"
+      "filterable": 1
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
@@ -388,11 +381,19 @@
       ]
     },
     {
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_看客影视",
       "name": "66⚡️KA",
       "type": 3,
       "api": "csp_Kanke",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -625,7 +626,6 @@
       "name": "66⚡️YQ",
       "type": 3,
       "api": "csp_Yqk",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
