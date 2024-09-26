@@ -8,7 +8,7 @@
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
 
-"sites":[ 
+"sites": [
 
     {
       "key": "lltv_HH",
@@ -310,18 +310,9 @@
       "name": "66⚡️FJ",
       "type": 3,
       "api": "csp_WexFujutv",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "lltv_新感觉",
-      "name": "66⚡️GJ",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.100.147:9891/api.php/app/"
     },
     {
       "key": "lltv_韩小圈",
@@ -810,7 +801,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://7910.kstore.space/js/虎牙直播.js"
+      "ext": "./js/虎牙直播.js"
     },
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2730,17 +2721,17 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_网盘及弹幕配置-PG-夜猫-如意",
-      "name": "👑网盘┃弹幕┃配置👑",
+      "key": "lltv_配置中心-PGY",
+      "name": "4K🍥配置-观看4K资源需先在这里设置网盘参数",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "searchable": 0,
       "changeable": 0,
+      "indexs": 0,
       "style": {
-          "type": "rect",
-          "ratio": 1},
-      "ext":"./json/token.json"
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
       "key": "lltv_Local-PG-鸭",
@@ -2905,15 +2896,33 @@
         }
     },
     {
-      "name": "XMY专线",
-      "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
-      "flag": [
-        "NBY"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      },
-      "type": "1"
+      "name": "LLTV_9",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
