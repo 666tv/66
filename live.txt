@@ -314,6 +314,62 @@ CCTV17,http://120.77.28.4:8648/mgu.php?id=cctv17
 江苏卫视,http://ygbh666.cn/aikmigu.php?id=jsws
 广东卫视,http://ygbh666.cn/aikmigu.php?id=gdws
 
+🇨🇳　中国港澳　👉,#genre#
+凤凰中文,https://shenxian.serv00.net/fhx.php?id=zw
+凤凰资讯,https://shenxian.serv00.net/fhx.php?id=zx
+凤凰中文,http://182.104.192.98:8180/TV00000000000000000008@HHZT
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+凤凰资讯,http://183.234.238.18:8926/live1128.m3u8
+凤凰中文,http://183.234.238.18:8927/live1129.m3u8
+无线新闻,http://8.137.59.151:3009/TV2/gat.php?id=5
+Now新闻,http://8.137.59.151:3009/TV2/gat.php?id=19
+Now财经,http://8.137.59.151:3009/TV2/gat.php?id=20
+pₒₚc电影,http://8.137.59.151:3009/TV2/gat.php?id=17
+Plus无线,http://8.137.59.151:3009/TV2/gat.php?id=6
+无线赛马,http://8.137.59.151:3009/TV2/gat.php?id=25
+有线赛马,http://8.137.59.151:3009/TV2/gat.php?id=9
+无线翡翠,http://8.137.59.151:3009/TV2/gat.php?id=4
+无线明珠,http://8.137.59.151:3009/TV2/gat.php?id=10
+无线娱乐,http://8.137.59.151:3009/TV2/gat.php?id=7
+无线综艺,http://8.137.59.151:3009/TV2/gat.php?id=21
+无线综艺,http://8.137.59.151:3009/TV2/gat.php?id=26
+无线综合,http://8.137.59.151:3009/TV2/gat.php?id=22
+无线粤片,http://8.137.59.151:3009/TV2/gat.php?id=27
+无线戏曲,http://8.137.59.151:3009/TV2/gat.php?id=28
+无线经典,http://8.137.59.151:3009/TV2/gat.php?id=23
+千禧经典,http://8.137.59.151:3009/TV2/gat.php?id=11
+黄金华剧,http://8.137.59.151:3009/TV2/gat.php?id=16
+无线星河国,http://8.137.59.151:3009/TV2/gat.php?id=8
+美亚电影国,http://8.137.59.151:3009/TV2/gat.php?id=78
+美亚电影粤,http://8.137.59.151:3009/TV2/gat.php?id=18
+
+凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视,http://122.224.232.218:8888/rtp/233.50.200.191:5140
+凤凰卫视,http://171.88.42.147:8888/udp/239.93.0.162:2192
+凤凰卫视,http://60.164.228.49:4040/udp/239.255.30.50:8231
+凤凰资讯,http://60.164.228.49:4040/udp/239.255.30.70:8231
+凤凰香港,http://171.108.239.77:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://60.164.228.49:4040/udp/239.255.30.123:8231
+凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8
+凤凰资讯,http://58.215.231.60/live2.rxip.sc96655.com/live/test2_4000.m3u8
+凤凰卫视,http://103.116.245.163/sxg/sxg.php?id=/test1_4000.m3u8
+凤凰资讯,http://103.116.245.163/sxg/sxg.php?id=/test2_4000.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+香港国际财经,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
 🇨🇳　咪咕移动　👉,#genre#
 移动咪咕中文,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
 移动咪咕直播-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
