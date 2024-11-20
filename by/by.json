@@ -191,15 +191,23 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_4KAV-道长-天天",
+      "key": "lltv_4K-天天",
       "name": "66⚡️4K",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/4K-AV.js"
+      "ext": "./json/4kav.json"
+    },
+    {
+      "key": "lltv_1905",
+      "name": "66⚡️1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_Ikanbot-XYQ-PG",
@@ -288,27 +296,23 @@
       "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "filterable": 1
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
-      "playerType": 2,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/低端影视.js"
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_大米星球",
       "name": "66⚡️DM",
       "type": 3,
-      "api": "csp_AppDaMi",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
       "key": "lltv_电影港-夜猫-巧技-不良",
@@ -321,6 +325,15 @@
       "ext": "./json/电影港.json"
     },
     {
+      "key": "lltv_疯狗影视",
+      "name": "66⚡️FG",
+      "type": 3,
+      "api": "csp_FengGo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_腐剧视频",
       "name": "66⚡️FJ",
       "type": 3,
@@ -330,13 +343,13 @@
       "changeable": 1
     },
     {
-      "key": "lltv_凡人追剧-巧技",
-      "name": "66⚡️FR",
+      "key": "lltv_瓜子影视",
+      "name": "66⚡️GZ",
       "type": 3,
-      "playerType": 1,
-      "api": "csp_Frong",
-      "jar": "./jar/qiaoji24108.jar",
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_黑狐-天天-肥猫-鸭",
@@ -405,9 +418,14 @@
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
+      "api": "csp_Jianpian",
       "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/JP.js"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": false
+      }
     },
     {
       "key": "lltv_极速",
@@ -466,6 +484,16 @@
       "filterable": 1
     },
     {
+      "key": "lltv_酷影视",
+      "name": "66⚡️KY",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },
+    {
       "key": "lltv_LibVio-巧技",
       "name": "66⚡️LB",
       "type": 3,
@@ -517,22 +545,28 @@
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_Nongm",
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "lltv_小苹果弹幕",
+      "key": "lltv_小苹果",
       "name": "66⚡️PG",
       "type": 3,
       "api": "csp_Xpg",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "filterable": 1
+    },
+    {
+      "key": "lltv_洽洽影视",
+      "name": "66⚡️QQ",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_七新-荷城-XYQ",
@@ -545,13 +579,25 @@
       "ext": "./json/七新影视.json"
     },
     {
-      "key": "lltv_热播影视",
-      "name": "66⚡️RB",
+      "key": "lltv_奇优影视",
+      "name": "66⚡️QY",
       "type": 3,
-      "api": "csp_AppRB",
+      "api": "csp_Qiyou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_热播弹幕",
+      "name": "66⚡️RB",
+      "type": 3,
+      "api": "csp_ReBo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "lltv_人人-心动-以一敌十-道长-潇洒",
@@ -559,16 +605,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/人人影视.js"
-    },
-    {
-      "key": "lltv_视频库-FM",
-      "name": "66⚡️SK",
-      "type": 3,
-      "api": "csp_WebVidHub",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://vidhub1.cc"
     },
     {
       "key": "lltv_360采集-夜猫",
@@ -625,6 +661,15 @@
       "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
     },
     {
+      "key": "lltv_铁剧影视",
+      "name": "66⚡️TJ",
+      "type": 3,
+      "api": "csp_WebBr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_文才弹幕",
       "name": "66⚡️WC",
       "type": 3,
@@ -645,27 +690,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/55.json"
-    },
-    {
-      "key": "lltv_现代-巧技",
-      "name": "66⚡️XD",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "./jar/qiaoji24108.jar",
-      "playerType": 1,
-      "ext": "caHR0cDovL2FwcC5icm92b2QuY29tfDE1MjQ3MjA1MzMzamFyb2R8MTUyNDcyMDUzMzNqYXJvZA=="
-    },
-    {
-      "key": "lltv_一起看弹幕",
-      "name": "66⚡️YQ",
-      "type": 3,
-      "api": "csp_Yqk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
     },
     {
       "key": "lltv_桜之空影视-欧歌",
@@ -691,16 +715,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "lltv_子子-鸭",
-      "name": "66⚡️ZZ",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/子子影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
