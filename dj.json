@@ -2,7 +2,8 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/66tv.jar",
+"spider": "./jar/66tv.txt",
+//"spider": "./jar/66tv.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -21,23 +22,35 @@
       "filterable": 1
     },
     {
+      "key": "lltv_无忧短剧",
+      "name": "无忧┃短剧",
+      "type": 3,
+      "api": "csp_Duanj",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "lltv_在线短剧",
       "name": "在线┃短剧",
       "type": 3,
       "api": "csp_Duanju",
-      //"jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
+      "changeable": 0
     },
     {
-      "key": "lltv_星芽短剧-欧歌",
+      "key": "lltv_星芽短剧",
       "name": "星芽┃短剧",
       "type": 3,
       "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "lltv_河马短剧",
+      "name": "河马┃短剧",
+      "type": 3,
+      "api": "csp_AppHMDJ",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -47,27 +60,14 @@
       "name": "天堂┃短剧",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/天堂短剧.js"
+      "ext": "./js/TTDJ.js"
     },
     {
       "key": "lltv_爱你短剧",
       "name": "爱你┃短剧",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/爱你短剧.json"
-    },
-    {
-      "key": "lltv_河马短剧",
-      "name": "河马┃短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/河马短剧.json"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/ANDJ.js"
     },
     {
       "key": "lltv_短剧屋",
@@ -77,7 +77,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/短剧屋.json"
+      "ext": "./json/DJW.json"
     },
     {
       "key":"lltv_短剧tv-夜猫",
