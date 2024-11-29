@@ -3191,11 +3191,21 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "./live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      //"logo": "https://live.fanmingming.com/tv/",
+      "url": "https://d.kstore.dev/download/7910/main/live.txt",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      //"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      //"logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15"
+    },
+    {
+      "name": "live(猫)",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
     }
     ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
