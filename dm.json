@@ -65,7 +65,7 @@
       "name": "优酷🔥动画",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/66/main/dongman/儿童优酷.js"
+      "ext": "./dongman/儿童优酷.js"
     },
     {
       "key": "lltv_TQDH",
@@ -108,17 +108,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/66/main/dongman/NT动漫.js"
-    },
-    {
-      "key":"py_返老还童",
-      "name":"PY┃动漫",
-      "type":3,
-      "api":"py_kt30",
-      "searchable":1,
-      "quickSearch":0,
-      "filterable":0,
-      "ext":"./dongman/py_kt30.json"
+      "ext": "./dongman/NT动漫.js"
     },
     {
       "key": "lltv_anfuns",
@@ -128,35 +118,24 @@
       "ext": "./dongman/anfuns.js"
     },
     {
-      "key": "lltv_漫岛-鸭",
-      "name": "漫岛┃动漫",
+      "key": "lltv_哆啦新番社",
+      "name": "哆啦┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./dongman/漫岛动漫.js"
+      "style": {
+          "type": "list"
+         },
+      "ext": "./dongman/DLXFS.json"
     },
     {
-      "key": "lltv_喵次元-摸鱼",
-      "name": "喵喵┃动漫",
+      "key": "lltv_好看动漫",
+      "name": "好看┃动漫",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./dongman/喵次元.js"
-    },
-    {
-      "key": "lltv_驴番动漫",
-      "name": "驴番┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/驴番动漫.js"
-    },
-    {
-      "key": "lltv_妮可",
-      "name": "妮可┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/妮可动漫.js"
+      "ext": "./dongman/HKDM.js"
     },
     {
       "key": "lltv_奇米-鸭",
@@ -169,54 +148,6 @@
       "ext": "./dongman/奇米动漫.js"
     },
     {
-      "key": "lltv_曲奇",
-      "name": "曲奇┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/曲奇动漫.js"
-    },
-    {
-      "key": "lltv_Anime1-鸭-饭",
-      "name": "日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_维奇-饭",
-      "name": "维奇┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/66/main/dongman/维奇动漫.json"
-    },
-    {
-      "key": "lltv_异世界-鸭-饭",
-      "name": "异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "lltv_樱花-魔改仓-动漫天地-鸭-饭",
-      "name": "樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
        "key": "lltv_桜空-欧歌",
        "name": "桜空┃资源",
        "type": 3,
@@ -224,11 +155,18 @@
        "ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "动漫$1#日漫$46#国漫$47#美漫$85"}
     },
     {
-      "key": "lltv_路漫漫-鸭",
-      "name": "路漫漫┃动漫",
+      "key": "lltv_爱弹幕",
+      "name": "爱弹幕┃动漫",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./dongman/路漫漫.js"
+      "ext": "./dongman/ADM.js"
+    },
+    {
+      "key": "lltv_动画片动漫",
+      "name": "动画片┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/DHPDQ.js"
     },
     {
       "key": "lltv_去看吧-鸭",
