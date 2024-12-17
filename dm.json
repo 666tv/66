@@ -197,8 +197,8 @@
     },
     {
       "name": "LLTV",
-      "type": "1",
-      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -355,8 +355,8 @@
     },
     {
       "name": "LLTV_10",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url=",
+      "type": "1",
+      "url": "https://jk.123zy.cool/jx/jx.php?url=",
       "ext": {
         "flag": [
           "qq",
