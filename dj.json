@@ -20,20 +20,28 @@
       "filterable": 1
     },
     {
-      "key": "lltv_无忧短剧",
-      "name": "无忧┃短剧",
-      "type": 3,
-      "api": "csp_Duanj",
+      "key": "lltv_黑木耳-巧技",
+      "name": "黑木耳┃短剧",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
       "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "lltv_在线短剧",
-      "name": "在线┃短剧",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "changeable": 0
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "虐恋短剧",
+        "逆袭短剧",
+        "悬疑短剧",
+        "神豪短剧",
+        "重生短剧",
+        "复仇短剧",
+        "穿越短剧",
+        "甜宠短剧",
+        "强者短剧",
+        "萌宝短剧",
+        "合集短剧",
+        "古装短剧",
+        "其它短剧"
+      ]
     },
     {
       "key": "lltv_星芽短剧",
@@ -45,27 +53,21 @@
       "filterable": 0
     },
     {
-      "key": "lltv_河马短剧",
-      "name": "河马┃短剧",
+      "key": "吉吉短剧",
+      "name": "吉吉┃短剧",
       "type": 3,
-      "api": "csp_AppHMDJ",
+      "api": "csp_XBPQ",
+      "ext": "./json/JJDJ.json"
+    },
+    {
+      "key": "lltv_爱我短剧",
+      "name": "爱我┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "lltv_天堂短剧",
-      "name": "天堂┃短剧",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/TTDJ.js"
-    },
-    {
-      "key": "lltv_爱你短剧",
-      "name": "爱你┃短剧",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/ANDJ.js"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/AWDJ.json"
     },
     {
       "key": "lltv_短剧屋",
@@ -78,73 +80,13 @@
       "ext": "./json/DJW.json"
     },
     {
-      "key":"lltv_短剧tv-夜猫",
-      "name":"AI┃短剧",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./jar/xymz0513.jar",
-      "ext":{
-        "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-        "线路标题":"<h3*>&&</h3>",
-        "线路数组":"\"more text-muted pull-right\">&&</ul>",
-        "播放数组":"\"more text-muted pull-right\">&&</ul>",
-        "播放链接":"http+://www.duanjutv.cc+href='&&'",
-        "直接播放": "0",
-        "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
-        "分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
-      }
-    },
-    {
-      "key": "lltv_iKun",
-      "name": "IK┃短剧",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
-      "playurl": "json:https://www.ikdmjx.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "爽文短剧",
-	"短片"
-      ]
-    },
-    {
-      "key": "lltv_Bili短剧",
-      "name": "哔哩┃短剧",
+      "key": "lltv_短剧网",
+      "name": "短剧网┃短剧",
       "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jar/ttkx240722.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/Bili短剧.json"
+      "api": "csp_XBPQ",
+      "ext": "./json/DJWang.json"
     },
-    {
-      "key": "lltv_吾爱短剧",
-      "name": "吾爱┃短剧",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/%E5%90%BE%E7%88%B1%E7%9F%AD%E5%89%A7.M3U?sign=xHZDL6fFTsTEMjRQoY4LahABR_9uRyVPW3L_6zEcu7g%3D%3A0"
-    },
-    {
-      "key": "lltv_49",
-      "name": "49┃短剧",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_360采集-夜猫",
       "name": "360┃短剧",
@@ -161,24 +103,23 @@
         "女频恋爱",
         "成长逆袭"
       ] 
-	  },
+	},
+    {
+      "key": "lltv_Bili短剧",
+      "name": "哔哩┃短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/ttkx240722.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/Bili短剧.json"
+    },
     {
       "key": "lltv_非凡",
       "name": "非凡┃短剧",
       "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_飞速",
-      "name":"飞速┃短剧",
-      "type":1,
-      "api":"https://www.feisuzyapi.com/api.php/provide/vod/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -250,7 +191,7 @@
       "key": "lltv_金鹰",
       "name":"金鹰┃短剧",
       "type":1,
-      "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+      "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -267,40 +208,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "短剧"
+        "爽文短剧"
       ]
     },
-    {
-      "key": "lltv_乐视-夜猫",
-      "name": "乐视┃短剧",
-      "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "短剧"
-      ]
-    }, 
     {
       "key": "lltv_量子",
       "name": "量子┃短剧",
       "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_奇虎",
-      "name":"奇虎┃短剧",
-      "type":1,
-      "api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/",
-      "playUrl":"",
-      "searchable":1,
-      "quickSearch":1,
       "filterable": 1,
       "categories": [
         "短剧"
@@ -310,19 +227,7 @@
       "key": "lltv_速播",
       "name":"速播┃短剧",
       "type":1,
-      "api":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_闪电",
-      "name":"闪电┃短剧",
-      "type":1,
-      "api":"https://sdzyapi.com/api.php/provide/vod/",
+      "api":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -343,18 +248,6 @@
       ]
     },
     {
-      "key": "lltv_U酷",
-      "name":"U酷┃短剧",
-      "type":1,
-      "api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
       "key": "lltv_无尽",
       "name":"无尽┃短剧",
       "type":1,
@@ -362,44 +255,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_新浪",
-      "name": "新浪┃短剧",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_业余",
-      "name": "业余┃资源",
-      "type": 1,
-      "api": "https://yyff.540734621.xyz/api.php/provide/vod/",
-      "playUrl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "热播短剧"
-      ]
-    },
-    {
-      "key": "lltv_优质",
-      "name": "优质┃短剧",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
       "categories": [
         "短剧"
       ]
@@ -423,8 +278,8 @@
     },
     {
       "name": "LLTV",
-      "type": "1",
-      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -581,8 +436,8 @@
     },
     {
       "name": "LLTV_10",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url=",
+      "type": "1",
+      "url": "https://jk.123zy.cool/jx/jx.php?url=",
       "ext": {
         "flag": [
           "qq",
