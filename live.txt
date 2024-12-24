@@ -472,6 +472,9 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 
 🇨🇳　中国港澳　👉,#genre#
+凤凰中文,http://kxrj.site:9125/6655/fh.php?id=fhzw
+凤凰香港,http://kxrj.site:9125/6655/fh.php?id=fhhk
+凤凰资讯,http://kxrj.site:9125/6655/fh.php?id=fhzx
 凤凰中文,http://dns.yiandrive.com:16813/phenix/fhzw
 凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
 凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
@@ -554,42 +557,174 @@ HBtv老挝,http://hikvision.city:880/HBTV.m3u8
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8 
 
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+HBtv老挝,http://hikvision.city:880/HBTV.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+环球,http://live.cgtn.com/500/prog_index.m3u8
+动物,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8 
+
 🇨🇳　中国台湾　👉_9527,#genre#
-民视,http://wanjiatv.net/tv/4g02.php?p=3
-中视,http://wanjiatv.net/tv/4g40.php?p=3
-华视,http://wanjiatv.net/tv/4g41.php?p=3
-台视,http://wanjiatv.net/tv/4g66.php?p=3
-采昌,http://wanjiatv.net/tv/4g49.php?p=3
-民视第一,http://wanjiatv.net/tv/4g03.php?p=3
-民视台湾,http://wanjiatv.net/tv/4g01.php?p=3
-民视综艺,http://wanjiatv.net/tv/4g04.php?p=3
-中视经典,http://wanjiatv.net/tv/4g80.php?p=3
-八大综合,http://wanjiatv.net/tv/4g39.php?p=3
-八大精彩,http://wanjiatv.net/tv/4g34.php?p=3
-公视戏剧,http://wanjiatv.net/tv/4g42.php?p=3
-中视菁采,http://wanjiatv.net/tv/4g64.php?p=3
-TVBS,http://wanjiatv.net/tv/4g73.php?p=3
-TVBS新闻,http://wanjiatv.net/tv/4g72.php?p=3
-TVBS精采,http://wanjiatv.net/tv/4g67.php?p=3
-TVBS欢乐,http://wanjiatv.net/tv/4g68.php?p=3
-中天新闻,http://wanjiatv.net/tv/4g09.php?p=3
-东森新闻,http://wanjiatv.net/tv/dsxw.php?p=3
-中视新闻,http://wanjiatv.net/tv/4g74.php?p=3
-龙华戏剧,http://wanjiatv.net/tv/018.php?p=3
-靖天欢乐,http://wanjiatv.net/tv/4g54.php?p=3
-靖天映画,http://wanjiatv.net/tv/4g55.php?p=3
-靖天戏剧,http://wanjiatv.net/tv/4g58.php?p=3
-靖天电影,http://wanjiatv.net/tv/4g61.php?p=3
-靖天国际,http://wanjiatv.net/tv/4g63.php?p=3
-靖天卡通,http://wanjiatv.net/tv/4g44.php?p=3
-靖天综合,http://wanjiatv.net/tv/4g46.php?p=3
-靖天日本,http://wanjiatv.net/tv/4g47.php?p=3
-靖洋卡通,http://wanjiatv.net/tv/4g57.php?p=3
-靖洋戏剧,http://wanjiatv.net/tv/4g45.php?p=3
-韩国娱乐,http://wanjiatv.net/tv/4g16.php?p=3
-爱尔达娱乐台,http://wanjiatv.net/tv/4g70.php?p=3
-影迷数位电影,http://wanjiatv.net/tv/4g11.php?p=3
-CatchPlay电影,http://wanjiatv.net/tv/4g76.php?p=3
+民視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv002
+民視第一台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv003
+民視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv13
+民視台灣台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv001
+民視影劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv09
+民視旅遊台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv07
+民視綜藝台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv004
+中視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv040
+中視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv074
+中視經典台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv080
+中視菁采台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv064
+中天新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv009
+中天亞洲台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv109
+華視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv041
+華視新聞,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv052
+靖天綜合台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv046
+靖天國際台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv063
+靖天戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv058
+靖天日本台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv047
+靖天映畫台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv055
+靖天卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv044
+靖天育樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv062
+靖天資訊台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv065
+靖天電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv061
+靖天歡樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv054
+龍華偶像台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn12
+龍華卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn01
+龍華戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn18
+龍華日韓台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn11
+龍華經典台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn21
+龍華電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn03
+靖洋戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv045
+靖洋卡通 Nice Bingo,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
+寰宇新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn14
+寰宇新聞台灣台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn15
+寰宇財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn23
+TVBS,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv073
+TVBS 新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv072
+TVBS 綜藝台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/284
+TVBS 歡樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv068
+TVBS 精采台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv067
+TVBS 台劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/285
+八大精彩台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv034
+八大綜藝台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv039
+三立綜合台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/169
+三立 iNEWS,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/229
+ 台視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv066
+台視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv051
+台視財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv056
+博斯運動一台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn07
+博斯運動二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn08
+博斯無限台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn10
+博斯無限二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn13
+博斯網球台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn09
+博斯高球台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn05
+博斯高球二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn06
+博斯魅力台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn04
+ELTA 娛樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv070
+ELTA 生活旅遊,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/237
+ELTV 生活英語,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn20
+東森新聞,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv152
+東森財經新聞,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv153
+非凡新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv010
+非凡商業台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv048
+鏡電視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv075
+CNBC Asia 財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/235
+亞洲旅遊台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn17
+GINX Esports TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv053
+TechStorm,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/181
+時尚運動X,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/277
+智林體育台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv101
+TraceSports,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv077
+影迷數位紀實台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/212
+影迷數位電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv011
+AMC 電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv017
+CatchPlay 電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv076
+My Cinema Europe HD 我的歐洲電影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/176
+公視戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv042
+采昌影劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv049
+台灣戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn22
+戲劇免費看 1台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/270
+戲劇免費看 2台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/244
+經典電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/201
+電影免費看 2台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/245
+電影原聲台 CMusic,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/218
+經典劇場,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/279
+CinemaWorld,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/225
+HITS 頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/186
+Rock Action,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/180
+Rock Entertainment,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/275
+金光布袋戲,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/236
+霹靂布袋戲,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/301
+DreamWorks 夢工廠動畫,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/282
+Nickelodeon,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/185
+兒童頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/219
+i-Fun 動漫台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv15
+兒童卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/269
+精選動漫台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/204
+經典卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/202
+達文西頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv018
+超人力霸王整套看,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/278
+MOMO 親子台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/231
+LiveABC 互動英語台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/188
+Classica 古典樂,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv059
+Lifetime 娛樂頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/217
+MTV Live HD 音樂頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/213
+Mezzo Live,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv083
+豬哥亮歌廳秀,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv006
+Trace Urban,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv082
+Global Trekker,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/252
+韓國娛樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv016
+LUXE TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/175
+Pet Club TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/182
+TV5MONDE Style,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/178
+車迷 TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/160
+Love Nature,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/139
+Fun 探索娛樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/274
+幸福空間居家台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/168
+Arirang TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv079
+ Bloomberg TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/283
+VOA 美國之音,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv03
+DW德國之聲,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/226
+SBN 全球財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/224
+半島國際新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv10
+第1商業台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv104
+History 歷史頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/214
+CI 罪案偵查頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/215
+Smart 知識台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn19
+視納華仁紀實頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv013
+原住民族電視台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/273
+客家電視台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv043
+滾動力 Rollor,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/249
+好消息,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv16
+好消息2台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv17
+大愛電視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/209
+大愛電視2,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/230
+人間衛視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/210
+國會頻道1,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv084
+國會頻道2,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv085
+東森購物一台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/173
+東森購物二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/174
+東森購物三台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/287
+東森購物四台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/286
 
 🇨🇳　咪咕体育　👉,#genre#
 咪咕直播-1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -1143,6 +1278,7 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 🇨🇳　广播电台　👉,#genre#
 贵州新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/23933.m3u8
 贵州交通广播 FM95.2[0*0],http://ls.qingting.fm/live/23927.m3u8
+贵州音乐广播 FM91.6[0*0],http://ls.qingting.fm/live/23937.m3u8
 贵州旅游广播 FM97.2[0*0],http://ls.qingting.fm/live/23929.m3u8
 贵州经济广播 FM98.9[0*0],http://ls.qingting.fm/live/23935.m3u8
 楚天音乐广播 FM105.8 (Opt-1)[0*0],http://ls.qingting.fm/live/1289.m3u8
@@ -1153,22 +1289,31 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 襄阳音乐广播[0*0],http://ls.qingting.fm/live/5057.m3u8
 北京房山经典音乐 FM96.90*0][0*0],http://live.xmcdn.com/live/963/64.m3u8
 北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
+北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
 重庆新闻广播 FM96.80*0][0*0],http://live.xmcdn.com/live/128/64.m3u8
 重庆新闻广播 FM96.80*0][0*0],http://ls.qingting.fm/live/1498.m3u8
 重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
+重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
 重庆交通广播 FM95.50*0][0*0],http://live.xmcdn.com/live/130/64.m3u8
+重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
 重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
 重庆音乐广播 FM88.10*0][0*0],http://live.xmcdn.com/live/131/64.m3u8
 重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
 重庆都市广播 FM93.80*0][0*0],http://live.xmcdn.com/live/132/64.m3u8
+重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
 重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
 巴渝之声 FM104.50*0][0*0],http://ls.qingting.fm/live/3545693.m3u8
 万州交通广播0*0][0*0],http://live.xmcdn.com/live/1679/64.m3u8
 厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
+厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
+厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
 厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
 广州新闻电台 FM96.20*0][0*0],http://live.xmcdn.com/live/256/64.m3u8
 广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
+广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
 广州汽车音乐电台 FM102.70*0][0*0],http://live.xmcdn.com/live/257/64.m3u8
+广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
 广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
 广州交通电台 FM106.10*0][0*0],http://ls.qingting.fm/live/4955.m3u8
 广州 MYFM 88.0 (都市生活)0*0][0*0],http://ls.qingting.fm/live/52712.m3u8
@@ -1176,6 +1321,7 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 东莞FM104音乐广播[0*0],http://ls.qingting.fm/live/93619.m3u8
 东莞畅享1075交通广播[0*0],http://ls.qingting.fm/live/1288.m3u8
 九江交通广播 FM88.4 FM88.9[0*0],http://ls.qingting.fm/live/2785094.m3u8
+云南交通广播 FM91.8[0*0],http://ls.qingting.fm/live/1928.m3u8
 云南教育广播 FM100[0*0],http://ls.qingting.fm/live/1930.m3u8
 云南新闻广播 FM105.8[0*0],http://ls.qingting.fm/live/1926.m3u8
 云南民族广播 SW7210[0*0],http://ls.qingting.fm/live/1933.m3u8
@@ -1196,17 +1342,21 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 四川私家车广播 FM92.5[0*0],http://ls.qingting.fm/live/4939.m3u8
 四川财富广播 FM94.0[0*0],http://ls.qingting.fm/live/4927.m3u8
 太原交通广播 FM107[0*0],http://ls.qingting.fm/live/4900.m3u8
+太原新闻广播 FM91.2[0*0],http://ls.qingting.fm/live/23873.m3u8
 太原私家车Radio FM104.4[0*0],http://ls.qingting.fm/live/4018.m3u8
 太原音乐广播 FM102.6[0*0],http://ls.qingting.fm/live/1185.m3u8
 宁夏交通广播 FM98.4[0*0],http://ls.qingting.fm/live/1840.m3u8
 宁夏都市广播 FM103.7[0*0],http://ls.qingting.fm/live/1842.m3u8
 山东体育广播 FM102.1[0*0],http://ls.qingting.fm/live/60266.m3u8
+山东女主播电台 FM97.5[0*0],http://ls.qingting.fm/live/60258.m3u8
 山东新闻广播 FM95[0*0],http://ls.qingting.fm/live/60180.m3u8
 山东生活广播 MyFM FM105[0*0],http://ls.qingting.fm/live/60260.m3u8
 山东音乐广播 FM99.1[0*0],http://ls.qingting.fm/live/1665.m3u8
 岳阳交通广播 FM106.1[0*0],http://ls.qingting.fm/live/88931.m3u8
 岳阳新闻综合广播[0*0],http://ls.qingting.fm/live/88933.m3u8
 常州交通广播 FM90[0*0],http://ls.qingting.fm/live/2796.m3u8
+广西女主播电台 FM97.0[0*0],http://ls.qingting.fm/live/1754.m3u8
+广西新闻910 FM91.0[0*0],http://ls.qingting.fm/live/1753.m3u8
 广西私家车930 FM93.0[0*0],http://ls.qingting.fm/live/1756.m3u8
 广西音乐台 FM95.0[0*0],http://ls.qingting.fm/live/4875.m3u8
 新疆交通广播 FM94.9 (Opt-2)[0*0],http://ls.qingting.fm/live/1910.m3u8
@@ -1242,6 +1392,7 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 浙江之声 FM88 (Opt-1)[0*0],http://ls.qingting.fm/live/4518.m3u8
 浙江交通之声 FM93 (Opt-1)[0*0],http://ls.qingting.fm/live/4522.m3u8
 浙江动听(音乐调频) FM96.8 (Opt-2)[0*0],http://ls.qingting.fm/live/4866.m3u8
+浙江女主播电台 FM104.5 (Opt-2)[0*0],http://ls.qingting.fm/live/4524.m3u8
 浙江财富广播 FM95 (Opt-1)[0*0],http://ls.qingting.fm/live/4519.m3u8
 海南交通广播 FM100[0*0],http://ls.qingting.fm/live/4911.m3u8
 海南国际旅游之声 FM103.8[0*0],http://ls.qingting.fm/live/1862.m3u8
@@ -1253,6 +1404,7 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 温州新闻广播 FM94.9[0*0],http://ls.qingting.fm/live/23861.m3u8
 温州私家车音乐广播 FM100.3[0*0],http://ls.qingting.fm/live/23865.m3u8
 温州经济生活广播 FM88.8[0*0],http://ls.qingting.fm/live/23867.m3u8
+温州绿色之声 FM93.8[0*0],http://ls.qingting.fm/live/1158.m3u8
 珠海电台交通音乐875[0*0],http://ls.qingting.fm/live/1275.m3u8
 西宁交通频率[0*0],http://ls.qingting.fm/live/3400408.m3u8
 西宁新闻频率[0*0],http://ls.qingting.fm/live/3400403.m3u8
@@ -1261,6 +1413,7 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 西安音乐广播 FM93.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1612.m3u8
 辽宁交通广播 FM97.5[0*0],http://ls.qingting.fm/live/23801.m3u8
 郑州新闻广播 FM98.6[0*0],http://ls.qingting.fm/live/1220.m3u8
+郑州汽车广播 FM91.2[0*0],http://ls.qingting.fm/live/1211.m3u8
 郑州车道931[0*0],http://ls.qingting.fm/live/1221.m3u8
 郴州综合广播 FM99.2[0*0],http://ls.qingting.fm/live/76765.m3u8
 郴州音乐交通广播 FM102.8[0*0],http://ls.qingting.fm/live/86747.m3u8
@@ -1269,8 +1422,10 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 长沙城市之声 FM101.7[0*0],http://ls.qingting.fm/live/4237.m3u8
 长治交通文艺广播 FM94.9[0*0],http://ls.qingting.fm/live/2669405.m3u8
 长治新闻综合广播(幸福广播) FM94.3[0*0],http://ls.qingting.fm/live/2702863.m3u8
+阳信人民广播电台 FM103.4[0*0],http://ls.qingting.fm/live/2915753.m3u8
 阳泉交通广播[0*0],http://ls.qingting.fm/live/4592896.m3u8?aac
 阳泉新闻综合广播[0*0],http://ls.qingting.fm/live/5876899.m3u8?aac
+陕西交通广播 FM91.6[0*0],http://ls.qingting.fm/live/1601.m3u8
 陕西故事广播 AM603[0*0],http://ls.qingting.fm/live/1608.m3u8
 陕西秦腔广播 FM101.1[0*0],http://ls.qingting.fm/live/1604.m3u8
 陕西都市广播-陕广新闻 FM101.8[0*0],http://ls.qingting.fm/live/1609.m3u8
@@ -1285,4 +1440,6 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 鹤壁交通音乐广播 FM93.5[0*0],http://ls.qingting.fm/live/3032681.m3u8
 龙广交通广播 FM99.8[0*0],http://ls.qingting.fm/live/4973.m3u8
 龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
+龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
+龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
 龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
