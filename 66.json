@@ -13,11 +13,11 @@
       "key": "lltv_豆瓣推荐",
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./js/douban.js"
+      "ext": "./mov/js/douban.js"
     },
     {
       "key": "lltv_豆瓣预告",
@@ -33,7 +33,7 @@
       "playerType": 2,
       "api": "csp_XBPQ",
       "searchable": 0,
-      "ext": "./json/豆瓣预告.json"
+      "ext": "./mov/json/豆瓣预告.json"
     },*/
     {
       "key": "lltv_1905",
@@ -54,7 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/哔哩MV.json"
+      "ext": "./mov/json/哔哩MV.json"
     },
     {
       "key": "lltv_哔哩音乐",
@@ -65,7 +65,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩音乐.json"
+      "ext": "./mov/json/哔哩音乐.json"
     },
     {
       "key": "lltv_企鹅-荷城-鸭-饭",
@@ -83,7 +83,7 @@
       "key": "lltv_Bili-道长-鸭",
       "name": "66💙哔哩直播",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -94,7 +94,7 @@
       "name": "66💙斗鱼直播",
       "type": 3,
       "playerType": 1,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "ext": "https://d.kstore.dev/download/7910/js/斗鱼直播.js"
@@ -103,7 +103,7 @@
       "key": "lltv_虎牙-道长-ok-鸭",
       "name": "66💙虎牙直播",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -114,8 +114,8 @@
       "key": "lltv_芒果弹幕",
       "name": "66⚡️MG弹幕",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/MGDM.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/MGDM.js"
     },
     {
       "key": "lltv_糯米弹幕",
@@ -133,8 +133,8 @@
       "key": "lltv_爱奇异弹幕",
       "name": "66⚡️QY弹幕",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/AQYDM.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/AQYDM.js"
     },
     {
       "key": "lltv_热播弹幕",
@@ -166,8 +166,8 @@
       "key": "lltv_腾讯弹幕",
       "name": "66⚡️TX弹幕",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/TXDM.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/TXDM.js"
     },
     {
       "key": "lltv_文才弹幕",
@@ -185,15 +185,15 @@
       "key": "lltv_小熊弹幕",
       "name": "66⚡️XX弹幕",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/XXDM.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/XXDM.js"
     },
     {
       "key": "lltv_优酷弹幕",
       "name": "66⚡️YK弹幕",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/YKDM.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/YKDM.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -210,12 +210,12 @@
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BI",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/哔哩影视[官].js"
+      "ext": "./mov/js/哔哩影视[官].js"
     },
     {
       "key": "lltv_农民影视2-天天",
@@ -225,14 +225,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/百度.json"
+      "ext": "./mov/json/百度.json"
     },
     {
       "key": "lltv_白嫖者-天天",
       "name": "66⚡️BP",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/白嫖者联盟.json"
+      "ext": "./mov/json/白嫖者联盟.json"
     },
     {
       "key": "lltv_茶狐杯-天天",
@@ -242,39 +242,39 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/茶狐杯.json"
+      "ext": "./mov/json/茶狐杯.json"
     },
     {
       "key": "lltv_采集之王-天天",
       "name": "66⚡️CJ",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 210,
-      "ext": "./json/采集之王.js?type=url&params=./json/采集静态.json"
+      "ext": "./mov/json/采集之王.js?type=url&params=./json/采集静态.json"
     },
     /*
     {
       "key": "lltv_采集之王-PizazzGY-天天",
       "name": "66⚡️CJ2",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
+      "ext": "./mov/js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
     },
     */
     {
       "key": "lltv_CM",
       "name": "66⚡️CM",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/畅梦.js"
+      "ext": "./mov/js/畅梦.js"
     },
     {
       "key": "lltv_厂长弹幕",
@@ -298,8 +298,8 @@
       "key": "lltv_大米星球",
       "name": "66⚡️DM",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
       "key": "lltv_电影港-夜猫-巧技-不良",
@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/电影港.json"
+      "ext": "./mov/json/电影港.json"
     },
     {
       "key": "lltv_非凡",
@@ -472,8 +472,8 @@
       "key": "lltv_金牌影视",
       "name": "66⚡️JY",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/金牌影视.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/金牌影视.js"
     },
     {
       "key": "lltv_饺子影视",
@@ -527,8 +527,8 @@
       "key": "lltv_闪雷影视-天天",
       "name": "66⚡️LY",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/闪雷影视.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/闪雷影视.js"
     },
     {
       "key": "lltv_量子",
@@ -632,8 +632,8 @@
       "key": "lltv_魔力高清",
       "name": "66⚡️ML",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/魔力高清.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/魔力高清.js"
     },
     {
       "key": "lltv_米米影视",
@@ -700,14 +700,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/黑狐.json"
+      "ext": "./mov/json/黑狐.json"
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
       "name": "66⚡️SX",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/大师兄.json"
+      "ext": "./mov/json/大师兄.json"
     },
     {
       "key": "lltv_五五-天天-鸭",
@@ -717,7 +717,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/55.json"
+      "ext": "./mov/json/55.json"
     },
     {
       "key": "lltv_现代-巧技",
@@ -731,8 +731,8 @@
       "key": "lltv_小虎斑弹幕",
       "name": "66⚡️XH",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/XHBDM.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/XHBDM.js"
     },
      {
       "key": "lltv_雨滴-巧技",
@@ -747,7 +747,7 @@
       "name": "66⚡️YY",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/樱之空2.json"
+      "ext": "./mov/json/樱之空2.json"
     },
     {
       "key": "lltv_优质-巧技",
@@ -761,8 +761,8 @@
       "key": "lltv_追剧迷",
       "name": "66⚡️ZJ",
       "type": 3,
-      "api": "./js/drpy_xs/drpy2.min.js",
-      "ext": "./js/追剧迷.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/追剧迷.js"
     },
     {
       "key": "lltv_在线之家-巧技-鸭-道长",
@@ -837,7 +837,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./js/哔哩直播.js"
+      "ext": "./mov/js/哔哩直播.js"
     },
     {
       "key": "lltv_JustLive-PG-道长-鸭",
@@ -868,7 +868,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./js/斗鱼直播.js"
+      "ext": "./mov/js/斗鱼直播.js"
     },
     {
       "key": "lltv_虎牙-道长-ok-鸭",
@@ -878,7 +878,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./js/虎牙直播.js"
+      "ext": "./mov/js/虎牙直播.js"
     },
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -894,7 +894,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "./json/布卡.json"
+      "ext": "./mov/json/布卡.json"
     },
     {
       "key": "lltv_策驰-荷城",
@@ -904,7 +904,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/策驰.json"
+      "ext": "./mov/json/策驰.json"
     },
     {
       "key": "lltv_晨光电影-天天",
@@ -939,7 +939,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/电影盒子.json"
+      "ext": "./mov/json/电影盒子.json"
     },
     {
       "key": "lltv_虎虎-肥猫",
@@ -956,7 +956,7 @@
       "name": "红狐┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/红狐.json"
+      "ext": "./mov/json/红狐.json"
     },
     {   
       "key": "lltv_久看-夜猫",
@@ -966,7 +966,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/久看.json"
+      "ext": "./mov/json/久看.json"
     },
     {
       "key": "lltv_可可-天天-青木",
@@ -976,14 +976,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/可可影视.json"
+      "ext": "./mov/json/可可影视.json"
     },
     {
       "key": "lltv_凯奇追剧-天天",
       "name": "凯奇┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/凯奇.json"
+      "ext": "./mov/json/凯奇.json"
     },
     {
       "key": "lltv_看片狂人-公子",
@@ -993,7 +993,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/看片狂人.json"
+      "ext": "./mov/json/看片狂人.json"
     },
     {
       "key": "lltv_蚂蚁-心动-满天星辰-巧技",
@@ -1004,7 +1004,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/蚂蚁.json"
+      "ext": "./mov/json/蚂蚁.json"
     },
     {
       "key": "lltv_麻衣-天天-鸭",
@@ -1014,7 +1014,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/麻衣呀呼.json"
+      "ext": "./mov/json/麻衣呀呼.json"
     },
     {
       "key": "lltv_miai-道长",
@@ -1035,14 +1035,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/HD魔力.json"
+      "ext": "./mov/json/HD魔力.json"
     },
     {
       "key":"lltv_木瓜-欧歌",
       "name":"木瓜┃资源",
       "type":3,
       "api":"csp_XBPQ",
-      "ext": "./json/木瓜.json"
+      "ext": "./mov/json/木瓜.json"
     },
     {
       "key": "lltv_毛驴影视",
@@ -1061,7 +1061,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/美柏.json"
+      "ext": "./mov/json/美柏.json"
     },
     {
       "key": "lltv_秒播=文才-夜猫-不良",
@@ -1071,7 +1071,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/秒播.json"
+      "ext": "./mov/json/秒播.json"
     },
     {
       "key": "lltv_南瓜-巧技-PG",
@@ -1090,7 +1090,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/破晓.json"
+      "ext": "./mov/json/破晓.json"
     },
     {
       "key": "lltv_泡剧网",
@@ -1100,7 +1100,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext": "./json/泡剧网.json"
+      "ext": "./mov/json/泡剧网.json"
     },
     {
       "key": "lltv_胖虎-天天",
@@ -1110,7 +1110,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/胖虎.json"
+      "ext": "./mov/json/胖虎.json"
     },
     {
       "key": "lltv_奇优-荷城-道长-肥猫-天天-鸭",
@@ -1120,7 +1120,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/奇优影视.json"
+      "ext": "./mov/json/奇优影视.json"
     },
     {
       "key": "lltv_千神-Yu",
@@ -1150,7 +1150,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/私人.json"
+      "ext": "./mov/json/私人.json"
     },
     {
       "key": "lltv_私人影院2-公子",
@@ -1160,14 +1160,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/私人2.json"
+      "ext": "./mov/json/私人2.json"
     },
     {
       "key": "lltv_三米影视-天天",
       "name": "三米┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/三米.json"
+      "ext": "./mov/json/三米.json"
     },
     {
       "key": "lltv_骚火VIP",
@@ -1177,7 +1177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/骚火.json"
+      "ext": "./mov/json/骚火.json"
     },
     {
       "key": "lltv_神仙-cally",
@@ -1187,7 +1187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/神仙.json"
+      "ext": "./mov/json/神仙.json"
     },
     {
       "key": "lltv_圣城影视-天天-巧技",
@@ -1197,7 +1197,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/圣城影视.json"
+      "ext": "./mov/json/圣城影视.json"
     },
     {
       "key": "lltv_桃子影视",
@@ -1216,7 +1216,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/电影小镇.json"
+      "ext": "./mov/json/电影小镇.json"
     },
     {
       "key": "lltv_臻品",
@@ -1239,49 +1239,49 @@
       "name": "楚门┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/楚门影院.js"
+      "ext": "./mov/js/楚门影院.js"
     },
     {
       "key": "lltv_尘落影视-道长",
       "name": "尘落┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/尘落影视.js"
+      "ext": "./mov/js/尘落影视.js"
     },
     {
       "key": "lltv_我爱跟剧-道长",
       "name": "跟剧┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/我爱跟剧.js"
+      "ext": "./mov/js/我爱跟剧.js"
     },
     {
       "key": "lltv_金曼-道长",
       "name": "金曼┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/金曼影视.js"
+      "ext": "./mov/js/金曼影视.js"
     },
     {
       "key": "lltv_凌云-道长",
       "name": "凌云┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/凌云影视.js"
+      "ext": "./mov/js/凌云影视.js"
     },
     {
       "key": "lltv_网飞-道长",
       "name": "网飞┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/网飞.js"
+      "ext": "./mov/js/网飞.js"
     },
     {
       "key": "lltv_玄天",
       "name": "玄天┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/玄天.js"
+      "ext": "./mov/js/玄天.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     { "key": "lltv_八戒",
@@ -2172,7 +2172,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/臭蛋蛋影视.json"
+      "ext": "./mov/json/臭蛋蛋影视.json"
     },
     {
       "key": "lltv_发电-巧技",
@@ -2217,7 +2217,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/农民影视.json"
+      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_皮特=黑狐-心动-满天星辰",
@@ -2229,7 +2229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/皮特.json"
+      "ext": "./mov/json/皮特.json"
     },
     {
       "key": "lltv_忍者-夜猫",
@@ -2252,7 +2252,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/苏苏.json"
+      "ext": "./mov/json/苏苏.json"
     },
     {
       "key": "lltv_天天-PG-巧技-欧歌-Yu",
@@ -2293,14 +2293,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/茶杯狐.json"
+      "ext": "./mov/json/茶杯狐.json"
     },
     {
       "key": "lltv_四个圈-道长",
       "name": "四个圈┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/四个圈影视.js"
+      "ext": "./mov/js/四个圈影视.js"
     },
     {
       "key": "lltv_鸭奈飞-天天-Yu-鸭",
@@ -2320,7 +2320,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/一起看.json"
+      "ext": "./mov/json/一起看.json"
     },
     {
       "key": "lltv_影视范",
@@ -2337,7 +2337,7 @@
       "name": "追剧迷┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/追剧迷.js"
+      "ext": "./mov/js/追剧迷.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2353,14 +2353,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/98.json"
+      "ext": "./mov/json/98.json"
     },
     {
       "key": "lltv_139-道长",
       "name": "139┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/139影视.js"
+      "ext": "./mov/js/139影视.js"
     },
     {
       "key": "lltv_666-天天",
@@ -2370,7 +2370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/666影视.json"
+      "ext": "./mov/json/666影视.json"
     },
     {
       "key": "lltv_4k影院-夜猫-cally",
@@ -2378,7 +2378,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xymz0513.jar",
-      "ext": "./json/4K影院.json"
+      "ext": "./mov/json/4K影院.json"
     },
     {
       "key": "lltv_6V",
@@ -2388,7 +2388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/6V.js"
+      "ext": "./mov/js/6V.js"
     },
     {
       "key": "lltv_7味-青木",
@@ -2398,14 +2398,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/7味.json"
+      "ext": "./mov/json/7味.json"
     },
     {
       "key": "lltv_8号-道长",
       "name": "8号┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/8号影院.js"
+      "ext": "./mov/js/8号影院.js"
     },
     {
       "key": "lltv_爱看-公子",
@@ -2413,7 +2413,7 @@
       "type": 3,
       "api": "csp_XBPQ",
      "jar": "./jar/lltv.jar",
-      "ext": "./json/爱看.json"
+      "ext": "./mov/json/爱看.json"
     },
     {
       "key": "lltv_CK-心动-满天星辰",
@@ -2500,7 +2500,7 @@
       "name": "JQ┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/剧圈圈.js"
+      "ext": "./mov/js/剧圈圈.js"
     },
     {
       "key": "lltv_看看影视",
@@ -2539,7 +2539,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/新视觉.json"
+      "ext": "./mov/json/新视觉.json"
     },
     {
       "key": "lltv_笙歌影视",
@@ -2573,7 +2573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/电影牛.json"
+      "ext": "./mov/json/电影牛.json"
     },
     {
       "key": "lltv_TVB云播-天天-鸭",
@@ -2583,7 +2583,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/TVB云播.json"
+      "ext": "./mov/json/TVB云播.json"
     },
     {
       "key": "lltv_Auete-巧技-肥猫",
@@ -2642,14 +2642,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/库库影视.json"
+      "ext": "./mov/json/库库影视.json"
     },
     {
       "key": "lltv_iKanBot-道长",
       "name": "iKanBot┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/ikanbot.js"
+      "ext": "./mov/js/ikanbot.js"
     },
     {
       "key": "lltv_SeedHub-XYQ-天天",
@@ -2689,7 +2689,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./js/88体育.js"
+      "ext": "./mov/js/88体育.js"
     },
     {
       "key": "lltv_310-天天-鸭",
@@ -2699,7 +2699,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./js/310体育.js"
+      "ext": "./mov/js/310体育.js"
     },
     {
       "key": "lltv_JRK-天天-鸭",
@@ -2709,7 +2709,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./js/JRK体育.js"
+      "ext": "./mov/js/JRK体育.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
