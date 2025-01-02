@@ -55,7 +55,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/草民.json"
+      "ext": "./mov/json/草民.json"
     },
     {
       "key": "lltv_西屋-cally",
@@ -65,21 +65,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/西屋.json"
+      "ext": "./mov/json/西屋.json"
     },
     {
       "key": "lltv_剧哥哥-公子",
       "name": "剧哥哥┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/剧哥哥.json"
+      "ext": "./mov/json/剧哥哥.json"
     },
     {
       "key": "lltv_剧看看",
       "name": "剧看看┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/剧看看.json"
+      "ext": "./mov/json/剧看看.json"
     },
     {
       "key": "lltv_剧圈影视-天天",
@@ -99,14 +99,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/影视家.json"
+      "ext": "./mov/json/影视家.json"
     },
     {
       "key": "lltv_NY影院-道长",
       "name": "NY┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/NY影院.js"
+      "ext": "./mov/js/NY影院.js"
     },
     {
       "key": "lltv_时常-巧技",
@@ -128,14 +128,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/55.json"
+      "ext": "./mov/json/55.json"
     },
     {
       "key": "lltv_Voflix-道长-鸭",
       "name": "Voflix┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/voflix.js"
+      "ext": "./mov/js/voflix.js"
     },
     {
       "key": "影视仓-D佬",
@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/蛋蛋影视.json"
+      "ext": "./mov/json/蛋蛋影视.json"
     },
     {
       "key": "lltv_鑫鑫影视",
@@ -175,35 +175,35 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/星辰影视.json"
+      "ext": "./mov/json/星辰影视.json"
     },
     {
       "key": "lltv_悠云追剧-天天",
       "name": "悠云┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/悠云.json"
+      "ext": "./mov/json/悠云.json"
     },
     { 
       "key": "lltv_洋芋片",
       "name": "洋芋┃资源", 
       "type": 3, 
       "api": "csp_XBPQ", 
-      "ext": "./json/洋芋.json"
+      "ext": "./mov/json/洋芋.json"
     },
     {
       "key": "lltv_追影-夜猫",
       "name": "追影┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/追影.json"
+      "ext": "./mov/json/追影.json"
     },
     {
       "key": "lltv_大米星球-道长-鸭",
       "name": "大米┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/大米星球.js"
+      "ext": "./mov/js/大米星球.js"
     },
     {
       "key": "lltv_多瑙-道长",
@@ -211,7 +211,7 @@
       "type": 3,
       "playerType": "2",
       "api": "./js/drpy2.min.js",
-      "ext": "./js/多瑙影视.js"
+      "ext": "./mov/js/多瑙影视.js"
     },
     {
       "key": "lltv_乐鱼-道长",
@@ -220,21 +220,21 @@
       "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./js/乐鱼影视.js"
+      "ext": "./mov/js/乐鱼影视.js"
     },
     {
       "key": "lltv_胖虎-道长-鸭",
       "name": "胖虎┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/胖虎.js"
+      "ext": "./mov/js/胖虎.js"
     },
     {
       "key": "lltv_QX-道长-鸭",
       "name": "秋霞┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/秋霞.js"
+      "ext": "./mov/js/秋霞.js"
     },
     {
       "key": "lltv_速映-鸭",
@@ -244,7 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/速映.json"
+      "ext": "./mov/json/速映.json"
     },
     {
       "key": "lltv_追剧-Yu-巧技",
@@ -269,7 +269,7 @@
       "name": "07┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/柒之社.js"
+      "ext": "./mov/js/柒之社.js"
     },
     {
       "key": "lltv_49",
@@ -322,7 +322,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./js/69美剧.js"
+      "ext": "./mov/js/69美剧.js"
     },
     {
       "key": "lltv_555",
@@ -332,7 +332,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/555.js",
+      "ext": "./mov/js/555.js",
       "timeout": 15
     },
     {
@@ -343,7 +343,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/996.json"
+      "ext": "./mov/json/996.json"
     },
     {
       "key": "lltv_9U-鸭",
@@ -353,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/九悠影视.js"
+      "ext": "./mov/js/九悠影视.js"
     },
     {
       "key": "lltv_爱看2-公子",
@@ -363,14 +363,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/2.json"
+      "ext": "./mov/json/2.json"
     },
     {
       "key": "lltv_KOK-道长",
       "name": "KOK┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/KOK影院.js"
+      "ext": "./mov/js/KOK影院.js"
     },
     {
       "key": "lltv_OXS",
@@ -392,7 +392,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/电影先生.js"
+      "ext": "./mov/js/电影先生.js"
     },
     {
       "key": "lltv_NikeTV",
@@ -401,14 +401,14 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/NikeTV.json"
+      "ext": "./mov/json/NikeTV.json"
     },
     {
       "key": "lltv_Cokemv-潇洒",
       "name": "Cokemv┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/cokemv.js"
+      "ext": "./mov/js/cokemv.js"
     },
     {
       "key": "lltv_短视频-鸭",
@@ -418,7 +418,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/短视频.js"
+      "ext": "./mov/js/短视频.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -476,7 +476,7 @@
       "name": "厂长┃资源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/厂长.js"
+      "ext": "./mov/js/厂长.js"
     },
     {
       "key": "搭讪",
