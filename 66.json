@@ -558,16 +558,16 @@
       "filterable": 1
     },
     {
-      "key": "lltv_360-巧技-yytt",
+      "key": "lltv_360弹幕-巧技-yytt",
       "name": "66⚡️LL",
       "type": 3,
-      "playerType": 2,
-      "api": "csp_SP360",
-      "jar": "./jar/qiaoji241229.jar",
-      "filterable": 1,
-      "quickSearch": 1,
+      "api": "csp_Sp360",
       "searchable": 1,
-      "ext": ""
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+      "danmu": true
+        }
     },
     {
       "key": "lltv_量子",
