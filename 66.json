@@ -2221,8 +2221,9 @@
       "name": "柠檬┃资源",
       "type": 3,
       "api": "csp_Nmvod",
-      "jar": "./jar/qiaoji240620.jar",
-      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
+      "jar": "./jar/qiaoji.jar",
+      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    //"ext": "https://api.cnmcom.com/webcloud/relay.php?url="
     },
     {
       "key": "lltv_农民-XYQ-巧技-夜猫",
