@@ -525,16 +525,6 @@
     },
     {
       "name": "LLTV_1",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "LLTV_2",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
@@ -564,6 +554,16 @@
       }
     },
     {
+      "name": "LLTV_2",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
       "name": "LLTV_3",
       "type": 0,
       "url": "https://bd.jx.cn/?url=",
@@ -572,17 +572,6 @@
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
-    },
-    {
-      "name": "LLTV_PPX",
-      "type": "1",
-      "url": "http://jiexi.52ppx.top/index.php?url=",
-      "ext": {
-      "flag": [
-        "PPXLG",
-        "皮皮虾4K"
-            ]
-        }
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
