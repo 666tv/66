@@ -186,7 +186,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "./mov/js/斗鱼直播.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/斗鱼直播.js"
     },
     {
       "key": "lltv_虎牙-天天-道长-ok-鸭",
@@ -196,7 +196,37 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./mov/js/虎牙直播.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/虎牙直播.js"
+    },
+    {
+      "key": "lltv_斗鱼直播",
+      "name": "66💙斗鱼直播",
+      "type": 3,
+      "api": "csp_AmuDouYu",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.597
+        },
+      "ext": "./mov/json/斗鱼直播.json"
+    },
+    {
+      "key": "lltv_虎牙直播",
+      "name": "66💙虎牙直播",
+      "type": 3,
+      "api": "csp_AmuHuYa",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.597
+        },
+      "ext": "./mov/json/虎牙直播.json"
     },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
