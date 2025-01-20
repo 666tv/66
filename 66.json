@@ -838,6 +838,14 @@
       "ext": "./mov/json/大师兄.json"
     },
     {
+      "key": "lltv_图图",
+      "name": "66⚡️TU",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_APPTT",
+      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+    },
+    {
       "key": "lltv_五五-天天-鸭",
       "name": "66⚡️WW",
       "type": 3,
@@ -854,6 +862,14 @@
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
+    },
+    {
+      "key": "lltv_星河",
+      "name": "66⚡️XH",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Muou",
+      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
     },
     {
       "key": "lltv_修罗影视",
@@ -879,6 +895,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/永乐影视.json"
+    },
+    {
+      "key": "lltv_玉米",
+      "name": "66⚡️YM",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo3Nzg4L3lteXMudHh0fDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
     },
     {
       "key": "lltv_电影牛",
