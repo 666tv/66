@@ -49,7 +49,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_糯米弹幕",
-      "name": "66⭐Tv¹",
+      "name": "66⭐Tvᴳᴶ",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -60,40 +60,23 @@
          }
     },
     {
-      "key": "lltv_皮皮虾",
-      "name": "66⭐Tv²",
+      "key": "lltv_韩小圈",
+      "name": "66⭐Tvᴴᴶ",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/皮皮虾.json"
-    },
-    {
-      "key": "lltv_茶狐杯-天天",
-      "name": "66⚡️Tv³",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HanXiaoQuan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/茶狐杯.json"
-    },
-    /*{
-      "key": "lltv_人人影视",
-      "name": "66⭐Tv³",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDo8KYwpvCn8KlwqbCpMKtwqrCrmNlZGbCssKswqjDnMOpwqZewpHCoMKmw5bDosOow6jCmsKhwpnCnsOgwqHDp8Oyw6vClsKcwp/CpcOdwqHDncOow6diwprCmcKVw6TDosOvwqfDrsKrwqRSXMKbwrzDqMOiw67CisKfwqLClMKbwq3CnMOiw6jCnMKkwoZhwqrCrMKcwqXCnMKnwpnCoFLCs8KVw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKbwp/CnMK6w5/CpnvClcKpwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbwrvCmMKjecKmwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbw43CnMKkwpXChcOrw5/CnMKzwpxVwq0="
+      "filterable": 1
     },
     {
-      "key": "lltv_荣荣",
-      "name": "66⭐Tv³",
+      "key": "lltv_美剧天堂",
+      "name": "66⭐Tvᴹᴶ",
       "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
-    },*/
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_哔哩MV",
@@ -401,6 +384,23 @@
       "ext": "./mov/json/百度.json"
     },
     {
+      "key": "lltv_茶狐杯-天天",
+      "name": "66⚡️CB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/茶狐杯.json"
+    },
+    {
+      "key": "lltv_采集之王",
+      "name": "66⚡️CJ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
+    },
+    {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
@@ -521,13 +521,14 @@
       ]
     },
     {
-      "key": "lltv_韩小圈",
-      "name": "66⚡️HJ",
+      "key": "lltv_海纳影视",
+      "name": "66⚡️HN",
       "type": 3,
-      "api": "csp_HanXiaoQuan",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "./mov/json/海纳影视.json"
     },
     {
       "key": "lltv_追剧迷",
@@ -598,6 +599,25 @@
       "filterable": 1
     },
     {
+      "key": "lltv_看客影视",
+      "name": "66⚡️KA",
+      "type": 3,
+      "api": "csp_Kanke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_可可影视",
+      "name": "66⚡️KE",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/可可影视.json"
+    },
+    {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
@@ -605,6 +625,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_客星",
+      "name": "66⚡️KX",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg=="
+    },
+     {
+      "key": "lltv_流光影视",
+      "name": "66⚡️LG",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/流光影视.json"
     },
     {
       "key": "lltv_量子",
@@ -696,15 +731,6 @@
       ]
     },
     {
-      "key": "lltv_美剧天堂",
-      "name": "66⚡️MJ",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_魔力高清",
       "name": "66⚡️ML",
       "type": 3,
@@ -750,6 +776,13 @@
         }
     },
     {
+      "key": "lltv_皮皮虾",
+      "name": "66⚡PP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/皮皮虾.json"
+    },
+    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
@@ -757,6 +790,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_奇优影视",
+      "name": "66⚡️QY",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.dyxz2.com/"
+    },
+    {
+      "key": "lltv_人人",
+      "name": "66⚡️RR",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
     },
     {
       "key": "lltv_世纪-巧技",
@@ -797,6 +848,14 @@
       "ext": "./mov/json/55.json"
     },
     {
+      "key": "lltv_现代",
+      "name": "66⚡️XD",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
+    },
+    {
       "key": "lltv_修罗影视",
       "name": "66⚡️XL",
       "type": 3,
@@ -813,6 +872,23 @@
       "playerType": 2,
       "api": "csp_Muou",
       "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
+    },
+    {
+      "key": "lltv_永乐影视",
+      "name": "66⚡️YL",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/永乐影视.json"
+    },
+    {
+      "key": "lltv_电影牛",
+      "name": "66⚡️YN",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/电影牛.json"
     },
     {
       "key": "lltv_桜之空影视-欧歌",
