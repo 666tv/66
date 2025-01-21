@@ -1,8 +1,8 @@
 var rule = {
     title:'优酷',
-    host:'https://www.%79%6f%75%6b%75.com',
+    host:'https://www.youku.com',
     homeUrl:'',
-    searchUrl:'https://search.%79%6f%75%6b%75.com/api/search?pg=fypage&keyword=**',
+    searchUrl:'https://search.youku.com/api/search?pg=fypage&keyword=**',
     searchable:2,
     quickSearch:0,
     filterable:1,
@@ -22,7 +22,7 @@ var rule = {
     },
     timeout:5000,
     class_name:'少儿&亲子&动漫&教育&游戏',
-    class_url:'少儿&亲子&动漫&教育&游戏',
+    class_url:'webchild&webbaby&webcomic&webedu&webgame',
     limit:20,
     play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
