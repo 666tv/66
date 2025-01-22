@@ -401,6 +401,18 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
+      "key": "lltv_厂长弹幕",
+      "name": "66⚡️CZ",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "danmu": true
+        }
+    },
+    {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
@@ -529,13 +541,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/海纳影视.json"
-    },
-    {
-      "key": "lltv_追剧迷",
-      "name": "66⚡️JM",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/追剧迷.js"
     },
     {
       "key": "lltv_JP-道长-天天-鸭-巧技",
@@ -774,13 +779,6 @@
       "ext": {
           "danmu": true
         }
-    },
-    {
-      "key": "lltv_皮皮虾",
-      "name": "66⚡PP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/皮皮虾.json"
     },
     {
       "key": "lltv_洽洽影视",
