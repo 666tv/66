@@ -22,7 +22,7 @@
       "filterable": 1
     },
     {
-      "key": "lltv_黑木耳-巧技",
+      "key": "lltv_黑木耳短剧-巧技",
       "name": "黑木耳┃短剧",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod/",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "key": "lltv_360采集-夜猫",
+      "key": "lltv_360短剧-夜猫",
       "name": "360┃短剧",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
@@ -159,10 +159,10 @@
       "ext": "./duanju/Bili短剧.json"
     },
     {
-      "key": "lltv_非凡",
+      "key": "lltv_非凡短剧",
       "name": "非凡┃短剧",
       "type": 1,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -170,7 +170,7 @@
         "短剧"
       ]
     },
-    { "key": "lltv_光速",
+    { "key": "lltv_光速短剧",
       "name":"光速┃短剧",
       "type":1,
       "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "key": "lltv_虎牙",
+      "key": "lltv_虎牙短剧",
       "name": "虎牙┃短剧",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "key": "lltv_豪华",
+      "key": "lltv_豪华短剧",
       "name": "豪华┃短剧",
       "type": 1,
       "playUrl": "",
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "key": "lltv_红牛",
+      "key": "lltv_红牛短剧",
       "name": "红牛┃短剧",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "key": "lltv_极速",
+      "key": "lltv_极速短剧",
       "name": "极速┃短剧",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
@@ -231,7 +231,7 @@
       ]
     },
     { 
-      "key": "lltv_金鹰",
+      "key": "lltv_金鹰短剧",
       "name":"金鹰┃短剧",
       "type":1,
       "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "key": "lltv_快车",
+      "key": "lltv_快车短剧",
       "name": "快车┃短剧",
       "type": 1,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "key": "lltv_量子",
+      "key": "lltv_量子短剧",
       "name": "量子┃短剧",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
@@ -267,7 +267,7 @@
       ]
     },
     { 
-      "key": "lltv_速播",
+      "key": "lltv_速播短剧",
       "name":"速播┃短剧",
       "type":1,
       "api":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/json",
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "key": "lltv_天空",
+      "key": "lltv_天空短剧",
       "name":"天空┃短剧",
       "type":1,
       "api":"https://api.tiankongapi.com/api.php/provide/vod/",
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "key": "lltv_无尽",
+      "key": "lltv_无尽短剧",
       "name":"无尽┃短剧",
       "type":1,
       "api":"https://api.wujinapi.com/api.php/provide/vod/",
