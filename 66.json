@@ -3445,14 +3445,24 @@
       "name": "IPTV",
       "type": 0,
       "playerType": 1,
-      "url": "https://gitee.com/ll8000/iptv/raw/master/output/66tv_result.txt",
-      //"url": "https://raw.gitmirror.com/666tv/iptv/master/output/66tv_result.txt",
+      "url": "https://gitee.com/ll8000/iptv/raw/master/output/result.txt",
+      //"url": "https://raw.gitmirror.com/666tv/iptv/master/output/result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
+    },
+    {
+      "name": "天天开心",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/666tv/66/refs/heads/main/live.txt",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//https://wget.la/
 //https://ghfast.top/
 //https://gh.xxooo.cf/
 //https://ghproxy.net/
