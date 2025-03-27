@@ -76,7 +76,7 @@
       "ext": "./jiaoyu/益智动画.json"
     },
     {
-      "key": "lltv_FirstAid",
+      "key": "lltv_急救",
       "name": "急救┃知识 ",
       "type": 3,
       "api": "csp_FirstAid",
