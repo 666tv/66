@@ -31,7 +31,7 @@
     },
     {
       "key": "lltv_配置中心",
-      "name": "配置⚡️中心",
+      "name": "配置⚙️中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -86,19 +86,23 @@
       "ext": "./mov/json/pan1.json?"
     },
     {
-      "key": "lltv_欧哥",
-      "name": "4K_OG⭐配置中心登录夸克",
+      "key": "lltv_雷鲸",
+      "name": "4K_TY⭐配置中心登录天翼",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_PanWebShareCloudLJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./mov/json/og.json?"
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+      "ext": "./mov/json/lj.json?"
     },
     {
       "key": "lltv_闪电",
-      "name": "4K_SD⭐配置中心登录UC",
+      "name": "4K_UC⭐配置中心登录UC",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -140,8 +144,7 @@
             "type": "list"
         }
     },
-    /*
-    {
+    /*{
       "key": "lltv_企鹅-荷城-鸭-饭",
       "name": "66❤️体育",
       "type": 3,
@@ -151,8 +154,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./mov/zbdm/企鹅体育.json"
-    },
-    */
+    },*/
     {
       "key": "lltv_哔哩哔哩小品",
       "name": "66❤️小品",
@@ -589,6 +591,14 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
+    },
+    {
+      "key": "lltv_优秀",
+      "name": "66⚡️YX",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
     },
     {
       "key": "lltv_追剧弹幕",
