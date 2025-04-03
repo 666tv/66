@@ -13,7 +13,7 @@
 
     {
       "key": "lltv_豆瓣推荐",
-      "name": "👇长按主页刷新资源•推荐电信网络",
+      "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -59,8 +59,23 @@
       "ext": "./mov/json/pan1.json?"
     },
     {
+      "key": "海绵",
+      "name": "4K_HM⭐配置中心登录天翼",
+      "type": 3,
+      "api": "csp_PanWebShareCloudHM",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+            "type": "list",
+            "ratio": 1.433
+        },
+      "ext": "./mov/json/hm.json?"
+    },
+    {
       "key": "lltv_雷鲸",
-      "name": "4K_TY⭐配置中心登录天翼",
+      "name": "4K_LJ⭐配置中心登录天翼",
       "type": 3,
       "api": "csp_PanWebShareCloudLJ",
       "searchable": 1,
@@ -72,17 +87,6 @@
             "ratio": 1.433
         },
       "ext": "./mov/json/lj.json?"
-    },
-    {
-      "key": "lltv_闪电",
-      "name": "4K_UC⭐配置中心登录UC",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./mov/json/sd.json?"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -233,18 +237,18 @@
       "ext": "http://tt.ysdqjs.cn"
     },
     {
+      "key": "lltv_爱奇艺弹幕",
+      "name": "66⚡️QY弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/爱奇艺弹幕.js"
+    },
+    {
       "key": "lltv_腾讯弹幕",
       "name": "66⚡️TX弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/zbdm/腾讯弹幕.js"
-    },
-    {
-      "key": "lltv_优酷弹幕",
-      "name": "66⚡️YK弹幕",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/zbdm/优酷弹幕.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -337,15 +341,20 @@
       "api": "csp_Muou",
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
     },
+     {
+      "key": "lltv_菲儿影视",
+      "name": "66⚡️FF",
+      "type": 3,
+      "api": "csp_AppFerr",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
+    },
     {
-      "key": "lltv_格格影视",
+      "key": "lltv_格格",
       "name": "66⚡️GG",
       "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fwqrCpMKrwqfCq2tgXmHCssKrwqjCrcKqbWFhYcKpwqLDm8Opw6NhwqDCmMKgwqDCn8KawqDDg8KhwpnCpMKHw6jDpcOewqDCtFNXwpnCnsOiw6fDkMKqwqtsV1xQwqDDp8Ojw6nCoW1QV8KL5Ye+6YWb5pCf5ZGcwqblhp/kvYflkKdq5b+q6Ki56La+5ryJ562TwpBXXFDCoMK0w5/DrMOFwpjCqVdqwpnCmsObw6zDocKWwqjCmMKaw6TDp8OtwqrCrGdlZ2PCoMKfwprCoMK7wpjCo3nCpsKgwq3CmsKgw5vCpsKXwpPCqMOhw53DpcOtw61kYmRlwrDCpsKhwqXCmlrCmMKVwpHDncOYw6zDrMKhbVDCq1fDrsOmw5/Dq8KnwpTCl8KVwp7DrcKawrTCmcKhwoDCn8KqwpnDpcOfw5vCqMKvYWBQWMOQw5zDqMOdw6nCqsKjUH7DjcKTwqvCqcKoY2tQwofDosOhwrDCrcK1U8KoZmTCosKTwrvDqcOqwp/ClcKHwpXDm8K+w6PDrcKpaGNnXsKswqnCmsKhw4V7woR9fMKlwpPDpsOiw6XCmFB3wpXDnMOew6nCosKadsKYwqLCn8Omw5jCqcKqwqtlXmBewqnCocKqwpnDjcKUwpbCkcKiw6LCosKvwqzCsWFjZlfCpcKTwqHDmsOmwp/Cn8Knc8Orw6LDrcOsw4rCpcKfwqTCn8Ocw6LDpsOLw5/Cl8KZwqLClcOcw6fDrcKgwrRTwoTCosKlw57DsMKmwpnCoXXCkcKewpvDh8OUw7DCoMK0U1fnnKTmk53CoMKfwprCoMOewpjCk8KiwqnDqcOnw4XDnsOzWmpQV8Oww6jDs8OiwrBpZlfCrQ=="
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
     },
     {
       "key": "lltv_光速",
@@ -410,12 +419,19 @@
       "key": "lltv_金牌影视",
       "name": "66⚡️JY",
       "type": 3,
+      "api": "csp_Jpys"
+    },
+    /*{
+      "key": "lltv_金牌影视",
+      "name": "66⚡️JY",
+      "type": 3,
       "api": "csp_WebJP",
+      "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
-    },
+    },*/
     {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
@@ -472,12 +488,29 @@
       ]
     },
     {
+      "key": "lltv_主角",
+      "name": "66⚡️MC",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9kdHltLnpqeXkuY2MvZ2ctZ2V0YXBwL2dldC1nZy50eHR8UE1LYVprQXY0UXA1M0VXbnxQTUthWmtBdjRRcDUzRVdufDQyNQ=="
+    },
+    {
       "key": "lltv_木头-巧技",
       "name": "66⚡️MT",
       "type": 3,
       "playerType": 1,
       "api": "csp_Shark",
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "66⚡️PG",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_奇迹影视",
@@ -542,22 +575,38 @@
       "key": "lltv_云播影视",
       "name": "66⚡️YB",
       "type": 3,
+      "api": "csp_Tvyb"
+    },
+    {
+      "key": "lltv_云端",
+      "name": "66⚡️YD",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+    },
+    /*{
+      "key": "lltv_云播影视",
+      "name": "66⚡️YB",
+      "type": 3,
       "api": "csp_AppGetApp",
+      "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
     },
-     {
+    {
       "key": "lltv_云端影视",
       "name": "66⚡️YD",
       "type": 3,
       "api": "csp_AppGetApp",
+      "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
-    },
+    },*/
     {
       "key": "lltv_优秀",
       "name": "66⚡️YX",
@@ -567,11 +616,11 @@
       "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
     },
     {
-      "key": "lltv_追剧弹幕",
+      "key": "lltv_追剧影视",
       "name": "66⚡️ZJ",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/追剧弹幕.js"
+      "ext": "./mov/js/追剧影视.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -2715,33 +2764,36 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_配置中心-PGY",
-      "name": "4K🍥配置-观看4K资源需先在这里设置网盘参数",
+      "key": "lltv_本地",
+      "name": "📛收集整理不易📛",
       "type": 3,
-      "api": "csp_Config",
+      "api": "csp_LocalFile",
       "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "quickSearch": 0
     },
     {
-      "key": "lltv_Local-PG-鸭",
-      "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
-      "type": 3,
-      "api": "csp_LocalFile"
-    },
-    {
-      "key": "lltv",
-      "name": "📛•专人维护•📛　　　📛••定期更新••📛",
+      "key": "lltv1",
+      "name": "📛请多多支持📛",
       "type": 3,
       "api": "",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": ""
+      "quickSearch": 0
+    },
+    {
+      "key": "lltv2",
+      "name": "📛高端精品尽在📛",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "lltv3",
+      "name": "📛⑥⑥宝藏团📛",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
