@@ -32,7 +32,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_DBYGP",
       "name": "66⚡️预告",
@@ -42,6 +41,39 @@
       "searchable": 0,
       "ext": "./mov/json/豆瓣预告.json"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_哔哩弹幕",
+      "name": "66⚡️BI弹幕",
+      "type": 3,
+      "api": "csp_Bilimd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "lltv_芒果弹幕",
+      "name": "66⚡️MG弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/芒果弹幕.js"
+    },
+    {
+      "key": "lltv_爱奇异弹幕",
+      "name": "66⚡️QY弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/爱奇艺弹幕.js"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_农民影视-讴歌",
       "name": "66⭐Tvᴳᴶ讴歌",
@@ -80,13 +112,13 @@
       "ext": "./mov/zbdm/企鹅体育.json"
     },
     {
-      "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
-      "name": "66💙斗鱼直播",
+      "key": "lltv_Bili-道长-鸭",
+      "name": "66💙哔哩直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "./mov/zbdm/斗鱼直播.js",
+      "ext": "./mov/zbdm/哔哩直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -106,53 +138,91 @@
           "ratio": 1.597
       }
     },
+    {
+      "key": "lltv_浪酷弹幕",
+      "name": "66⚡️LK弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
+    {
+      "key": "lltv_热播弹幕",
+      "name": "66⚡️RB弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
+      }
+    },
+    {
+      "key": "lltv_天天弹幕",
+      "name": "66⚡️TT弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
+      }
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_lltv_KungFu404",
-      "name": "阿里云┃设置",
+      "key": "lltv_桜之空影视-欧歌",
+      "name": "(GD)66⚡️YK",
       "type": 3,
-      "api": "csp_KungFu404",
-      "jar": "./jar/alibaba.jar",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/樱之空2.json"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_网盘及弹幕配置-PG-夜猫-如意",
-      "name": "👑网盘┃弹幕┃配置👑",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-          "type": "rect",
-          "ratio": 1},
-      "ext":"./json/token.json"
-    },
-    {
-      "key": "lltv_Local-PG-鸭",
-      "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
+      "key": "lltv_本地",
+      "name": "📛收集整理不易📛",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "./jar/lltv5;md5;6120d08f4eb1edce507bfcd1b339c482",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "type_flag": 0
+      "quickSearch": 0
     },
     {
-      "key": "lltv",
-      "name": "📛•专人维护•📛　　　📛••定期更新••📛",
+      "key": "lltv1",
+      "name": "📛请多多支持📛",
       "type": 3,
       "api": "",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": ""
+      "quickSearch": 0
+    },
+    {
+      "key": "lltv2",
+      "name": "📛高端精品尽在📛",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "lltv3",
+      "name": "📛⑥⑥宝藏团📛",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0
     }
 ],
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
