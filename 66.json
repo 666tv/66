@@ -2,8 +2,8 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/spider.jar",
-//"spider": "http://ttkx.cc:55/lib/ttkx.jar",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743870299964/spider.jar",
+//"spider": "./jar/spider.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -26,7 +26,7 @@
       "key": "lltv_豆瓣预告",
       "name": "66⚡️新片预告",
       "type": 3,
-      "api": "csp_YGP",
+      "api": "csp_DouBan",
       "searchable": 0
     },
     {
@@ -38,9 +38,9 @@
       "changeable": 0,
       "indexs": 0,
       "style": {
-            "type": "rect",
-            "ratio": 1.597
-        }
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -148,9 +148,9 @@
       "filterable": 0,
       "changeable": 0,
       "style": {
-            "type": "rect",
-            "ratio": 1.597
-        }
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -199,53 +199,38 @@
       "key": "lltv_浪酷弹幕",
       "name": "66⚡️LK弹幕",
       "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/spider250321.jar",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL3YubGt1eXMuY24="
-        }
+      "filterable": 0,
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
     },
     {
       "key": "lltv_糯米影视",
       "name": "66⚡️NM弹幕",
       "type": 3,
-      "api": "csp_WebNM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsOvw7LDo2lmZlfDtg=="
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_热播弹幕",
       "name": "66⚡️RB弹幕",
       "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/spider250321.jar",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL3YucmJvdHYuY24="
-        }
+      "filterable": 0,
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
     },
     {
       "key": "lltv_天天弹幕",
       "name": "66⚡️TT弹幕",
       "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/spider250321.jar",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
-      }
+      "filterable": 0,
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
       "key": "lltv_爱奇艺弹幕",
@@ -279,24 +264,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_8号影院-天天",
-      "name": "66⚡️BH",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索url": "http://www.soutiyi.com/search.php?searchword={wd}",
-        "搜索链接": "href=\"&&\"",
-        "简介": "请勿相信影片中的广告，以免上当受骗。+<pclass=\"col-pddetail\"&&</span>",
-        "线路数组": "<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>",
-        "线路标题": "蓝光专线",
-        "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
-        "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
-      }
     },
     {
       "key": "lltv_哔哩影视[官]-道长",
@@ -357,16 +324,7 @@
       "name": "66⚡️FF",
       "type": 3,
       "api": "csp_AppFerr",
-      "jar": "./jar/spider250402.jar",
       "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
-    },
-    {
-      "key": "lltv_格格",
-      "name": "66⚡️GG",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
     },
     {
       "key": "lltv_光速",
@@ -406,17 +364,12 @@
       "ext": "./mov/json/狐狸君.json"
     },
     {
-      "key": "lltv_荐片",
+      "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
       "playerType": 1,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      }
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/JP.js"
     },
     {
       "key": "lltv_金牌影视",
@@ -563,7 +516,12 @@
       "key": "lltv_云播影视",
       "name": "66⚡️YB",
       "type": 3,
-      "api": "csp_Tvyb"
+      "api": "csp_AppGetApp",
+      "jar": "./jar/spider250401.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
     },
     {
       "key": "lltv_云端",
@@ -574,17 +532,6 @@
       "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
     },
     /*{
-      "key": "lltv_云播影视",
-      "name": "66⚡️YB",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "jar": "./jar/spider250401.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
-    },
-    {
       "key": "lltv_云端影视",
       "name": "66⚡️YD",
       "type": 3,
@@ -765,17 +712,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_洽洽影视",
-      "name": "(GD)66⚡️QQ",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "jar": "./jar/spider250401.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKcXmnCk8Oew5bCscKyw55hwpPCn8KdwqDCn8KawqDDrsKcwqBXasKZwprDleWHvumFouaPmOWQk1zlhpzkvpDlkarCtOW/quipgOi1t+a7gOesicKNwqDCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDsMOow7PDosKwaWZXwq0="
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
