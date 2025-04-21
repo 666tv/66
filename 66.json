@@ -59,17 +59,6 @@
       "ext": "./mov/json/pan1.json?"
     },
     {
-      "key": "lltv_二小",
-      "name": "4K_EX⭐配置中心登录夸克",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./mov/json/ex.json?"
-    },
-    {
       "key": "lltv_玩偶哥哥",
       "name": "4K_GG⭐配置中心登录UC",
       "type": 3,
@@ -93,6 +82,21 @@
         "ratio": 1.433
       },
       "ext": "./mov/json/hm.json?"
+    },
+    {
+      "key": "lltv_夸父",
+      "name": "4K_KK⭐配置中心登录夸克",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKF",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "./mov/json/kf.json"
     },
     {
       "key": "lltv_雷鲸",
@@ -169,11 +173,11 @@
         }
     },
     {
-      "key": "lltv_大师兄影视-天天-道长-运输车",
-      "name": "66⭐大师兄",
+      "key": "lltv_秀儿影视",
+      "name": "66⭐秀儿",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/大师兄.json"
+      "ext": "./mov/json/秀儿影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -425,13 +429,6 @@
       "playerType": 2,
       "api": "csp_Muou",
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-    },
-    {
-      "key": "lltv_秀儿影视",
-      "name": "66⚡ER",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/秀儿影视.json"
     },
     {
       "key": "lltv_菲儿影视",
@@ -757,6 +754,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_大师兄影视-天天-道长-运输车",
+      "name": "(GD)66⚡SX",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/大师兄.json"
     },
     {
       "key": "lltv_迅雷吧",
