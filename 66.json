@@ -126,6 +126,13 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_白白影视",
+      "name": "66⭐白白",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibai.com"
+    },
+    {
       "key": "lltv_尘落影视",
       "name": "66⭐尘落",
       "type": 3,
@@ -160,13 +167,6 @@
       "playerType": 1,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/JP.js"
-    },
-    {
-      "key": "lltv_农民影视",
-      "name": "66⭐柠檬",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_金牌影视",
@@ -371,13 +371,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_白白影视",
-      "name": "66⚡️BB",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BL",
       "type": 3,
@@ -539,11 +532,11 @@
       "ext": "saHR0cDovL2Ntcy5taXRvdHYuY29tL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
-      "key": "lltv_糯米影视",
+      "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_QD4K",
@@ -768,6 +761,13 @@
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
+    },
+    {
+      "key": "lltv_糯米影视",
+      "name": "(GD)66⚡️NM",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_苹果影视",
