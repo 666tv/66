@@ -191,8 +191,8 @@
       "key": "lltv_农民影视",
       "name": "66⭐糯米",
       "type": 3,
-      "api": "csp_Wwys",
       "quickSearch": 1,
+      "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
     {
@@ -542,6 +542,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://172.83.156.150:1010/api.php/app/"
+    },
+    {
+      "key": "lltv_趣看",
+      "name": "66⚡️QK",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "https://xjuzi.top",
+        "dataKey": "6a482a70b80eefc9",
+        "dataIv": "c995826a3e86fedd",
+        "jxurl": "https://www.ququkan.cc"
+        }
     },
     {
       "key": "lltv_剧圈圈",
