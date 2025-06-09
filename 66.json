@@ -12,6 +12,13 @@
 "sites": [
 
     {
+      "key": "lltv_豆瓣",
+      "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    /*{
       "key": "lltv_豆瓣JS",
       "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
       "type": 3,
@@ -21,13 +28,6 @@
       "filterable": 0,
       "order_num": 0,
       "ext": "./js/douban.js"
-    },
-    /*{
-      "key": "lltv_豆瓣",
-      "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
     },*/
     {
       "key": "lltv_豆瓣预告",
@@ -102,17 +102,17 @@
         }
     },
     {
-      "key": "lltv_诺雪",
-      "name": "4K⭐诺雪",
+      "key": "lltv_溜溜",
+      "name": "4K⭐溜溜",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://appcms.rx4k.top",
-        "dataKey": "LiGFzV6csf21zsu6",
-        "dataIv": "LiGFzV6csf21zsu6",
-        "deviceId": "",
-        "version": ""
+        "url": "https://appcms.ll4k.xyz",
+        "dataKey": "NiDGaKiVnkO3QX1Q",
+        "dataIv": "NiDGaKiVnkO3QX1Q",
+        "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
+        "version": "200"
         }
     },
     {
@@ -129,6 +129,7 @@
         "version": ""
         }
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_白白影视",
       "name": "66⭐白白",
@@ -165,19 +166,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_金牌影视",
-      "name": "66⭐金牌",
-      "type": 3,
-      "api": "./py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-        }
-    },
-    {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⭐荐片",
       "type": 3,
@@ -200,6 +188,20 @@
         }
     },
     {
+      "key": "lltv_开心",
+      "name": "66⭐开心",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://tv.31hl.cn",
+        "dataKey": "2268331221bobobo",
+        "dataIv": "2268331221bobobo",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_浪酷影视",
       "name": "66⭐浪酷",
       "type": 3,
@@ -212,12 +214,20 @@
         }
     },
     {
-      "key": "lltv_农民影视",
+      "key": "lltv_农民",
       "name": "66⭐糯米",
       "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "66⭐苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
+      "filterable": 1
     },
     {
       "key": "lltv_热播影视",
@@ -241,20 +251,6 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
-        }
-    },
-    {
-      "key": "lltv_外剧",
-      "name": "66⭐外剧",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://guowaiju.com",
-        "dataKey": "7xv16h7qgkrs9b1p",
-        "dataIv": "7xv16h7qgkrs9b1p",
-        "deviceId": "",
-        "version": ""
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -390,6 +386,20 @@
       "ext": "https://v.wetv.wang"
     },
     {
+      "key": "lltv_超前",
+      "name": "66⚡️CQ",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.ystva.com",
+        "dataKey": "A1akVPQmnnE4Fz9Z",
+        "dataIv": "A1akVPQmnnE4Fz9Z",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "134"
+        }
+    },
+    {
       "key": "lltv_二三",
       "name": "66⚡️ES",
       "type": 3,
@@ -416,7 +426,7 @@
       "key": "lltv_狐狸君",
       "name": "66⚡HL",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -526,11 +536,26 @@
         }
     },
     {
-      "key": "lltv_农民",
+      "key": "lltv_梦缘",
+      "name": "66⚡️MY",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://150.138.84.88:44444",
+        "dataKey": "fdnwxwnkyylwdyqh",
+        "dataIv": "fdnwxwnkyylwdyqh",
+        "deviceId": "29ac7568b4dc23ca9a40b6ca5b7cc6f68",
+        "version": "520"
+        }
+    },
+    {
+      "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/农民影视.json"
+      "quickSearch": 1,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_QD4K",
@@ -597,13 +622,44 @@
       "api": "csp_SP360"
     },
     {
+      "key": "lltv_外剧",
+      "name": "66⚡️WJ",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://guowaiju.com",
+        "dataKey": "7xv16h7qgkrs9b1p",
+        "dataIv": "7xv16h7qgkrs9b1p",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
+      "key": "lltv_无上资源",
+      "name": "66⚡️WS",
+      "type": 1,
+      "api": "https://mfgc.iwsyy.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "纪录片",
+        "少儿",
+        "短剧"
+        ]
+    },
+    {
       "key": "lltv_雪糕影视",
       "name": "66⚡️XG",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "ext": "./mov/json/雪糕影视.json"
     },
-     {
+    {
       "key": "lltv_星河",
       "name": "66⚡️XH",
       "type": 3,
@@ -621,7 +677,7 @@
       "key": "lltv_修罗影视",
       "name": "66⚡️XL",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -752,7 +808,7 @@
       "key": "lltv_海纳影视",
       "name": "(GD)66⚡️HN",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "ext": "./mov/json/海纳影视.json"
     },
     {
@@ -807,15 +863,6 @@
       ]
     },
     {
-      "key": "lltv_苹果影视",
-      "name": "(GD)66⚡️PG",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_大师兄影视-天天-道长-运输车",
       "name": "(GD)66⚡SX",
       "type": 3,
@@ -849,7 +896,7 @@
       "key": "lltv_永乐影视",
       "name": "(GD)66⚡️YL",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "ext": "./mov/json/永乐影视.json"
     },
     {
