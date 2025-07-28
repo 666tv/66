@@ -113,14 +113,11 @@
       "filterable": 1
     },
     {
-      "key": "lltv_韩小圈",
-      "name": "66⭐韩剧",
+      "key": "lltv_金牌",
+      "name": "66⭐金牌",
       "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "./jar/spider250321.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "./js/drpy_xyq/drpy2.min.js",
+      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
