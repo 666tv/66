@@ -8,6 +8,7 @@
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
+    
 
 "sites":[ 
 //动漫~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -135,6 +136,17 @@
         "deviceId": "",
         "version": "170"
         }
+    },
+    {
+      "key": "lltv_多多",
+      "name": "多多┃动漫",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./dongman/yyds.json"
     },
     {
       "key": "lltv_哆啦新番社",
