@@ -88,28 +88,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_豆丁",
-      "name": "66⭐123",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-            "url": "",
-            "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-            "dataKey": "xasdasdqwertyuio",
-            "dataIv": "xasdasdqwertyuio",
-            "deviceId": "",
-            "version": ""
-      }
-    },
-    {
-      "key": "lltv_白白影视",
-      "name": "66⭐白白",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
@@ -190,20 +168,6 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
-        }
-    },
-    {
-      "key": "lltv_外剧",
-      "name": "66⭐外剧",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://guowaiju.com",
-        "dataKey": "7xv16h7qgkrs9b1p",
-        "dataIv": "7xv16h7qgkrs9b1p",
-        "deviceId": "",
-        "version": ""
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -361,7 +325,7 @@
     },
     {
       "key": "lltv_橘子",
-      "name": "66⚡️JZ",
+      "name": "66⚡JZ",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -374,57 +338,19 @@
         }
     },
     {
-      "key": "lltv_乐达",
-      "name": "66⚡️LD",
+      "key": "lltv_狂人",
+      "name": "66⚡KR",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./jar/spider250809.jar",
       "ext": {
-            "url": "https://ledayy.com",
-            "site": "",
-            "dataKey": "hjjp68c2okw12345",
-            "dataIv": "hjjp68c2okw12345",
-            "deviceId": "",
-            "version": ""
-      }
-    },
-    {
-      "key": "lltv_量子采集",
-      "name": "66⚡️LZ",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "马泰剧",
-        "欧美剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "奇幻片",
-        "战争片",
-        "爱情片",
-        "犯罪片",
-        "恐怖片",
-        "悬疑片",
-        "灾难片",
-        "剧情片",
-        "记录片",
-        "动画片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
+        "url": "https://www.zjkrmv.vip",
+        "dataKey": "vXeyuJFqTKqWUtWU",
+        "dataIv": "vXeyuJFqTKqWUtWU",
+        "deviceId": "",
+        "version": ""
+        }
     },
     {
       "key": "lltv_米诺",
@@ -447,15 +373,6 @@
       "ext": "./mov/json/明星影视.json"
     },
     {
-      "key":"lltv_南瓜-巧技",
-        "name":"66⚡️NG",
-        "type":3,
-        "api":"csp_NanGua",
-        "jar": "./jar/qiaoji250711.jar",
-        "playerType":2,
-        "ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
-    {
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
@@ -464,13 +381,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/农民影视.json"
-    },
-    {
-      "key": "lltv_剧圈圈",
-      "name": "66⚡️QQ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/剧圈圈.js"
     },
     {
       "key": "lltv_七味",
@@ -482,50 +392,6 @@
       "filterable": 1,
       "ext": {
           "url": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
-        }
-    },
-    {
-      "key": "lltv_旗星",
-      "name": "66⚡️QX",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-            "url": "http://ys.qist.top",
-            "site": "",
-            "dataKey": "2SWSPFxugBLPPOKo",
-            "dataIv": "2SWSPFxugBLPPOKo",
-            "deviceId": "",
-            "version": "120"
-      }
-    },
-    {
-      "key": "lltv_热剧",
-      "name": "66⚡️RJ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-            "url": "https://www.rebovod.com",
-            "site": "https://www.rebovod.com",
-            "dataKey": "8191A7F47B37882F",
-            "dataIv": "8191A7F47B37882F",
-            "deviceId": "",
-            "version": ""
-      }
-    },
-    {
-      "key": "lltv_人人",
-      "name": "66⚡RR",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.xiaohys.com",
-        "dataKey": "ENonBHeVBoYZhVUV",
-        "dataIv": "ENonBHeVBoYZhVUV",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "166"
         }
     },
     {
@@ -550,6 +416,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
+      "jar": "./jar/spider250809.jar",
       "ext": {
         "url": "",
         "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
@@ -558,12 +425,6 @@
         "deviceId": "",
         "version": "120"
         }
-    },
-    {
-      "key": "lltv_鸭梨影视",
-      "name": "66⚡️YL",
-      "type": 3,
-      "api": "csp_KmeiJu"
     },
     {
       "key": "lltv_追剧影视",
@@ -3211,6 +3072,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
