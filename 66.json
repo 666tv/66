@@ -61,7 +61,7 @@
       "changeable": 1,
       "ext": "./mov/json/yyds.json"
     },
-	{
+    {
       "key": "lltv_玩偶",
       "name": "4K_GG⭐配置中心登录夸克",
       "type": 3,
@@ -120,13 +120,13 @@
         }
     },
     {
-      "key": "lltv_糯米",
+      "key": "lltv_农民影视",
       "name": "66⭐糯米",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/糯米影视.json"
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
-	{
+    {
       "key": "lltv_苹果影视",
       "name": "66⭐苹果",
       "type": 3,
@@ -351,19 +351,20 @@
       "api": "csp_XBPQ",
       "ext": "./mov/json/明星影视.json"
     },
-	{
+    
+    {
       "key": "lltv_莫小影视",
       "name": "66⚡️MY",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/莫小影视.json"
     },
-	{
-      "key": "lltv_农民影视",
+    {
+      "key": "lltv_糯米",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/糯米影视.json"
     },
     {
       "key": "lltv_七味",
@@ -409,7 +410,7 @@
       "type": 3,
       "api": "csp_SP360"
     },
-	{
+    {
       "key": "lltv_私人",
       "name": "66⚡️SR",
       "type": 3,
@@ -3070,6 +3071,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
