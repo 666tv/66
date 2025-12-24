@@ -93,7 +93,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
+    {
       "key": "lltv_韩剧看看",
       "name": "66⭐韩剧",
       "type": 3,
@@ -127,11 +127,11 @@
         }
     },
     {
-      "key": "lltv_农民影视",
+      "key": "lltv_糯米",
       "name": "66⭐糯米",
       "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/糯米影视.json"
     },
     {
       "key": "lltv_苹果影视",
@@ -351,13 +351,6 @@
       "ext": "./mov/json/莫小影视.json"
     },
     {
-      "key": "lltv_糯米",
-      "name": "66⚡️NM",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/糯米影视.json"
-    },
-    {
       "key": "lltv_七味",
       "name": "66⚡️QW",
       "type": 3,
@@ -387,6 +380,14 @@
         "dataIv": "huohushipingetap",
         "version": "140"
         }
+    },
+    {
+      "key": "lltv_骚火影视",
+      "name": "66⚡️SH",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
     },
     {
       "key": "lltv_三九影视",
@@ -3062,6 +3063,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
